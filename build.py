@@ -106,7 +106,8 @@ color:var(--muted);margin:0 0 6px;font-weight:500}
 ol.refs-list{margin:0;padding-left:0;list-style:none;counter-reset:ref;
 display:flex;flex-direction:column;gap:12px}
 ol.refs-list li{counter-increment:ref;font-size:.82rem;line-height:1.55;color:var(--ink-2);
-padding-left:2.4em;text-indent:-1.2em}
+padding-left:2.4em;text-indent:-1.2em;overflow-wrap:anywhere}
+ol.refs-list a{word-break:break-all}
 ol.refs-list li::before{content:counter(ref) ". ";font-family:var(--f-mono);color:var(--accent)}
 ol.refs-list li:target{background:var(--accent-soft);border-radius:2px}
 .cards{display:flex;flex-direction:column;gap:2px;margin-top:34px;background:var(--rule);
