@@ -75,6 +75,7 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:10px
 figure{margin:36px 0;max-width:44rem}
 figure svg{display:block;width:100%;height:auto;background:var(--surface);
 border:1px solid var(--rule);border-radius:2px}
+figure img{display:block;width:100%;height:auto;border-radius:2px;background:var(--surface-2)}
 figcaption{font-size:.85rem;color:var(--muted);margin-top:10px;line-height:1.5}
 figcaption b{font-family:var(--f-mono);font-size:.78rem;letter-spacing:.08em;
 text-transform:uppercase;color:var(--accent);font-weight:500}
@@ -155,6 +156,11 @@ def render_blocks(a):
                        % (b['html'], '<cite>%s</cite>' % b['cite'] if b.get('cite') else ''))
         elif t == 'figure':
             out.append('<figure>%s<figcaption>%s</figcaption></figure>' % (b.get('svg', ''), b['html']))
+        elif t == 'image':
+            out.append(
+                '<figure><img src="/images/%s" alt="%s" width="1400" height="788" loading="lazy" '
+                'decoding="async"><figcaption>%s</figcaption></figure>'
+                % (b['file'], html.escape(b.get('alt', '')), b['html']))
         elif t == 'table':
             out.append('<div class="tablewrap">%s</div>' % b['html'])
         elif t == 'note':
