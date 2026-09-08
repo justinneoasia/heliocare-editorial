@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="What the national measurements show about when the sun here is actually dangerous, and what that means for skin at this latitude.">
+<title>Singapore&#x27;s ultraviolet day, hour by hour</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap">
+<style>
+:root{--ground:#F7F6FA;--surface:#FFF;--surface-2:#F1EFF6;--ink:#17141F;--ink-2:#3B3548;
+--muted:#6B647A;--rule:#E1DEE9;--rule-strong:#CBC6D8;--accent:#6B3FA0;--accent-soft:#EEE7F7;
+--uv-low:#2E9E5B;--uv-mod:#D9A400;--uv-high:#DE6B1F;--uv-vhigh:#C33A2E;--uv-extreme:#7B3FA8;
+--skin-1:#F2D9C4;--skin-2:#E0BFA3;--skin-3:#C99C7C;
+--f-display:"Newsreader","Iowan Old Style",Georgia,serif;
+--f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+--f-mono:"IBM Plex Mono","SF Mono",Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+--ground:#131120;--surface:#1C192B;--surface-2:#242034;--ink:#EFECF6;--ink-2:#CFC9DD;
+--muted:#A198B6;--rule:#332E47;--rule-strong:#463F5E;--accent:#B694EC;--accent-soft:#2A2340;
+--uv-low:#4FC183;--uv-mod:#E8BE3E;--uv-high:#FF9152;--uv-vhigh:#F2695C;--uv-extreme:#B98BE0;
+--skin-1:#4A3A31;--skin-2:#5C4739;--skin-3:#6E5443}}
+:root[data-theme="dark"]{--ground:#131120;--surface:#1C192B;--surface-2:#242034;--ink:#EFECF6;
+--ink-2:#CFC9DD;--muted:#A198B6;--rule:#332E47;--rule-strong:#463F5E;--accent:#B694EC;
+--accent-soft:#2A2340;--uv-low:#4FC183;--uv-mod:#E8BE3E;--uv-high:#FF9152;--uv-vhigh:#F2695C;
+--uv-extreme:#B98BE0;--skin-1:#4A3A31;--skin-2:#5C4739;--skin-3:#6E5443}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+font-size:17px;line-height:1.68;-webkit-font-smoothing:antialiased}
+.wrap{max-width:48rem;margin:0 auto;padding:0 26px 110px}
+a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 35%,transparent)}
+a:hover{border-bottom-color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+.top{display:flex;align-items:baseline;gap:14px;padding:26px 0 0;font-family:var(--f-mono);
+font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}
+.top a{border-bottom:0;color:var(--muted)}.top a:hover{color:var(--accent)}
+.draft{margin:22px 0 0;padding:10px 14px;background:var(--accent-soft);color:var(--accent);
+font-size:.82rem;border-radius:2px}
+header.hd{padding:34px 0 30px}
+.eyebrow{font-family:var(--f-mono);font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;
+color:var(--accent);margin:0 0 18px}
+h1{font-family:var(--f-display);font-weight:500;font-size:clamp(2.2rem,5.2vw,3.4rem);
+line-height:1.06;letter-spacing:-.022em;margin:0 0 16px;text-wrap:balance;max-width:22ch}
+.sub{font-family:var(--f-display);font-style:italic;font-size:clamp(1.1rem,2.3vw,1.35rem);
+line-height:1.42;color:var(--ink-2);margin:0;max-width:46ch}
+.meta{display:flex;flex-wrap:wrap;gap:6px 20px;margin-top:28px;padding-top:16px;
+border-top:1px solid var(--rule);font-family:var(--f-mono);font-size:11.5px;
+letter-spacing:.05em;color:var(--muted);text-transform:uppercase}
+article{max-width:34.5rem}
+article>p{margin:0 0 20px}
+.standfirst{font-size:1.1rem;color:var(--ink-2)}
+h2{font-family:var(--f-display);font-weight:500;font-size:1.66rem;line-height:1.2;
+letter-spacing:-.015em;margin:46px 0 14px;text-wrap:balance}
+sup{font-family:var(--f-mono);font-size:.62em;font-weight:500;vertical-align:super;line-height:0}
+sup a{border-bottom:0;padding:0 1px}
+strong{font-weight:600;color:var(--ink)}
+blockquote{margin:32px 0;padding:0 0 0 20px;border-left:2px solid var(--accent);
+font-family:var(--f-display);font-size:1.2rem;line-height:1.42;color:var(--ink);max-width:42ch}
+blockquote p{margin:0 0 8px}
+blockquote cite{display:block;font-family:var(--f-mono);font-style:normal;font-size:.7rem;
+letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:10px;line-height:1.5}
+figure{margin:36px 0;max-width:44rem}
+figure svg{display:block;width:100%;height:auto;background:var(--surface);
+border:1px solid var(--rule);border-radius:2px}
+figcaption{font-size:.85rem;color:var(--muted);margin-top:10px;line-height:1.5}
+figcaption b{font-family:var(--f-mono);font-size:.78rem;letter-spacing:.08em;
+text-transform:uppercase;color:var(--accent);font-weight:500}
+.note{margin:28px 0;padding:16px 18px;background:var(--surface);border:1px solid var(--rule);max-width:42rem}
+.note h4{font-family:var(--f-mono);font-size:10px;letter-spacing:.13em;text-transform:uppercase;
+color:var(--accent);margin:0 0 8px;font-weight:500}
+.note p{margin:0 0 10px;font-size:.94rem;color:var(--ink-2)}.note p:last-child{margin:0}
+.tablewrap{overflow-x:auto;border:1px solid var(--rule);background:var(--surface);margin:30px 0;max-width:44rem}
+table{border-collapse:collapse;width:100%;min-width:520px;font-size:.87rem}
+th,td{text-align:left;padding:10px 13px;border-bottom:1px solid var(--rule);vertical-align:top}
+thead th{font-family:var(--f-mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+color:var(--muted);font-weight:500;background:var(--surface-2)}
+tbody tr:last-child td{border-bottom:0}
+ul{padding-left:1.15em}ul li{margin-bottom:9px}
+.faq{margin-top:46px;max-width:34.5rem}
+.faq h2{margin-top:0}
+details{border-bottom:1px solid var(--rule);padding:4px 0}
+summary{cursor:pointer;font-weight:600;font-size:1rem;padding:12px 0;list-style:none;
+display:flex;justify-content:space-between;gap:14px;align-items:baseline}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font-family:var(--f-mono);color:var(--accent);font-weight:400}
+details[open] summary::after{content:"\2212"}
+details p{margin:0 0 14px;font-size:.95rem;color:var(--ink-2)}
+.refs{margin-top:56px;padding-top:24px;border-top:2px solid var(--ink);max-width:45rem}
+.refs h2{font-family:var(--f-mono);font-size:11px;letter-spacing:.13em;text-transform:uppercase;
+color:var(--muted);margin:0 0 6px;font-weight:500}
+.refs .apa{font-size:.8rem;color:var(--muted);margin:0 0 18px;max-width:52ch}
+ol.refs-list{margin:0;padding-left:0;list-style:none;counter-reset:ref;
+display:flex;flex-direction:column;gap:12px}
+ol.refs-list li{counter-increment:ref;font-size:.82rem;line-height:1.55;color:var(--ink-2);
+padding-left:2.4em;text-indent:-1.2em}
+ol.refs-list li::before{content:counter(ref) ". ";font-family:var(--f-mono);color:var(--accent)}
+ol.refs-list li:target{background:var(--accent-soft);border-radius:2px}
+.cards{display:flex;flex-direction:column;gap:2px;margin-top:34px;background:var(--rule);
+border:1px solid var(--rule)}
+.card{display:block;background:var(--ground);padding:24px 26px;border-bottom:0}
+.card:hover{background:var(--surface)}
+.card h2{font-family:var(--f-display);font-size:1.5rem;font-weight:500;margin:0 0 8px;
+letter-spacing:-.015em;line-height:1.2;color:var(--ink)}
+.card p{margin:0 0 12px;color:var(--ink-2);font-size:.97rem;max-width:52ch}
+.card .cm{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+footer{margin-top:64px;padding-top:20px;border-top:1px solid var(--rule);
+font-size:.82rem;color:var(--muted);max-width:45rem}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="top"><a href="/">&larr; All articles</a></div>
+<div class="draft">Draft. Not yet bylined, medically reviewed or illustrated. Not for publication.</div>
+<header class="hd"><p class="eyebrow">Photoprotection &middot; Sun exposure</p><h1>Singapore's ultraviolet day, hour by hour</h1><p class="sub">What the national measurements show about when the sun here is actually dangerous, and what that means for skin at this latitude.</p><div class="meta"><span>7 September 2026</span><span>1,796 words</span><span>18 references</span></div></header>
+<article>
+<p class="standfirst">Singapore lies roughly one and a half degrees north of the equator, its day length varies by about an hour across the entire year<sup><a href="#r16">16</a></sup>, and the National Environment Agency reports that it is common for the ultraviolet index to reach Very High and Extreme levels in the four-hour period between 11am and 3pm on a day with little cloud cover<sup><a href="#r8">8</a></sup>. Yet fewer than a quarter of adults surveyed here apply sunscreen<sup><a href="#r2">2</a></sup>. This article sets out what is measured, when, and what follows from it for skin.</p>
+<h2>What the ultraviolet index measures</h2>
+<p>The ultraviolet index is a standardised scale developed jointly by the World Health Organization, the United Nations Environment Programme and the World Meteorological Organization to express the intensity of ultraviolet radiation at ground level<sup><a href="#r8">8</a></sup>. It is weighted for erythema, meaning it is calibrated to the wavelengths that redden human skin rather than to total ultraviolet energy.</p>
+<p>The index is measured here with a sensor sited in an open field at the Changi Meteorological Station, and reported every fifteen minutes between 7am and 7pm, each value representing the average of the preceding fifteen minutes<sup><a href="#r7">7</a></sup><sup><a href="#r8">8</a></sup>. The scale runs from 0 to 11 and above, grouped into five categories. Readings above 11 are considered Extreme, and those between 8 and 10 Very High<sup><a href="#r1">1</a></sup>. World Health Organization guidance attaches protective behaviour to those categories: at 3 to 7, seek shade during midday hours and use a shirt, sunscreen and hat; at 8 and above, avoid being outside during midday hours altogether<sup><a href="#r14">14</a></sup>.</p>
+<blockquote><p>&ldquo;A high UV Index reading means a larger dose of UV radiation for the same amount of time spent in the sun.&rdquo;</p><cite>Dr Koh Hong Yi, Dermatology Consultant, Singapore General Hospital<sup><a href="#r13">13</a></sup></cite></blockquote>
+<figure><svg viewBox="0 0 720 250" role="img" aria-label="The ultraviolet index scale from 0 to 12 divided into five named categories, with Singapore's typical daily maximum of six to nine marked as a span and the reading of 12 recorded on 27 March 2024 marked separately.">
+    <text x="24" y="30" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="1.4" fill="currentColor" opacity="0.55">FIGURE 1 &nbsp;THE INDEX SCALE AND WHERE SINGAPORE SITS</text>
+    <g>
+      <rect x="24" y="62" width="112" height="34" rx="2" fill="var(--uv-low)"/>
+      <rect x="140" y="62" width="168" height="34" rx="2" fill="var(--uv-mod)"/>
+      <rect x="312" y="62" width="112" height="34" rx="2" fill="var(--uv-high)"/>
+      <rect x="428" y="62" width="168" height="34" rx="2" fill="var(--uv-vhigh)"/>
+      <rect x="600" y="62" width="96" height="34" rx="2" fill="var(--uv-extreme)"/>
+    </g>
+    <g font-family="IBM Plex Sans, sans-serif" font-size="11.5" fill="#FFFFFF" font-weight="600" text-anchor="middle">
+      <text x="80" y="84">Low</text><text x="224" y="84">Moderate</text><text x="368" y="84">High</text>
+      <text x="512" y="84">Very high</text><text x="648" y="84">Extreme</text>
+    </g>
+    <g font-family="IBM Plex Mono, monospace" font-size="10.5" fill="currentColor" opacity="0.6" text-anchor="middle">
+      <text x="80" y="112">0&ndash;2</text><text x="224" y="112">3&ndash;5</text><text x="368" y="112">6&ndash;7</text>
+      <text x="512" y="112">8&ndash;10</text><text x="648" y="112">11+</text>
+    </g>
+    <line x1="312" y1="146" x2="540" y2="146" stroke="currentColor" stroke-width="2"/>
+    <line x1="312" y1="139" x2="312" y2="153" stroke="currentColor" stroke-width="2"/>
+    <line x1="540" y1="139" x2="540" y2="153" stroke="currentColor" stroke-width="2"/>
+    <text x="426" y="134" font-family="IBM Plex Sans, sans-serif" font-size="12" font-weight="600" fill="currentColor" text-anchor="middle">Typical daily maximum, 6 to 9</text>
+    <circle cx="648" cy="190" r="6" fill="var(--uv-extreme)" stroke="var(--surface)" stroke-width="2"/>
+    <text x="634" y="194" font-family="IBM Plex Sans, sans-serif" font-size="12" font-weight="600" fill="currentColor" text-anchor="end">Peak of 12 recorded on 27 March 2024</text>
+    <text x="24" y="226" font-family="IBM Plex Sans, sans-serif" font-size="11.5" fill="currentColor" opacity="0.62">Protection advised from 3. Midday exposure discouraged from 8.</text>
+  </svg><figcaption><b>Figure 1</b> &nbsp;Index categories as published by the National Environment Agency<sup><a href="#r7">7</a></sup>, with the typical daily maximum reported by the Meteorological Service Singapore and the peak recorded on 27 March 2024<sup><a href="#r1">1</a></sup>. Diagram of published values, not plotted measurements.</figcaption></figure>
+<h2>What the sky here delivers on an ordinary day</h2>
+<p>The Meteorological Service Singapore gives the typical daily maximum ultraviolet index as six to nine<sup><a href="#r1">1</a></sup>, which places an ordinary cloudless afternoon in the High to Very High categories before any unusual conditions are involved. There is no month in which the protective threshold of 3 is not routinely exceeded around the middle of the day.</p>
+<p>What varies through the year is not solar geometry but the atmosphere in front of it. Day length runs to roughly twelve hours and differs by about an hour between the longest and shortest days<sup><a href="#r16">16</a></sup>, and the sun is close to overhead in every month. Annual variation is therefore driven mainly by cloud, with the highest values occurring in months with less of it: February, March, April and September tend to see the highest ultraviolet radiation<sup><a href="#r1">1</a></sup>.</p>
+<p>The National Environment Agency publishes its hourly index readings as an open dataset. The 2024 record alone contains more than 32,000 hourly observations from the Changi station<sup><a href="#r6">6</a></sup>, which is the resource anyone wanting to characterise the local ultraviolet day in detail should be working from.</p>
+<h2>One measured afternoon, hour by hour</h2>
+<p>The clearest way to see the shape of the day is to follow a single one. On 27 March 2024 the index at Changi first entered the Extreme band at about 12.15pm with a reading of 11. It climbed to 12 at about 1.15pm. By 2.45pm it had fallen back to 10<sup><a href="#r1">1</a></sup>.</p>
+<p>Three points, roughly two and a half hours apart, describe the whole problem. The reading was already in the highest category before the lunch hour was over, it peaked in the early afternoon rather than at midday, and it was still Very High at a quarter to three. An office worker leaving the building at 12.30pm and returning at 2pm was outdoors for the entire span.</p>
+<figure><svg viewBox="0 0 720 300" role="img" aria-label="Chart of three ultraviolet index readings published for 27 March 2024: eleven at 12.15pm, twelve at 1.15pm and ten at 2.45pm, plotted against the index category bands, with solar noon marked at 1.13pm.">
+    <text x="24" y="28" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="1.4" fill="currentColor" opacity="0.55">FIGURE 2 &nbsp;THREE PUBLISHED READINGS, 27 MARCH 2024</text>
+
+    <!-- category bands -->
+    <rect x="100" y="60" width="560" height="31" fill="var(--uv-extreme)" opacity="0.16"/>
+    <rect x="100" y="91" width="560" height="37" fill="var(--uv-vhigh)" opacity="0.16"/>
+    <rect x="100" y="128" width="560" height="25" fill="var(--uv-high)" opacity="0.16"/>
+    <rect x="100" y="153" width="560" height="37" fill="var(--uv-mod)" opacity="0.16"/>
+    <rect x="100" y="190" width="560" height="30" fill="var(--uv-low)" opacity="0.16"/>
+
+    <g font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity="0.72" text-anchor="end">
+      <text x="92" y="78">Extreme</text><text x="92" y="113">Very high</text><text x="92" y="144">High</text>
+      <text x="92" y="175">Moderate</text><text x="92" y="209">Low</text>
+    </g>
+
+    <!-- axes -->
+    <line x1="100" y1="220" x2="660" y2="220" stroke="currentColor" opacity="0.35" stroke-width="1"/>
+    <g font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity="0.6" text-anchor="middle">
+      <text x="100" y="240">11am</text><text x="240" y="240">12pm</text><text x="380" y="240">1pm</text>
+      <text x="520" y="240">2pm</text><text x="660" y="240">3pm</text>
+    </g>
+    <g stroke="currentColor" opacity="0.22" stroke-width="1">
+      <line x1="240" y1="60" x2="240" y2="220"/><line x1="380" y1="60" x2="380" y2="220"/>
+      <line x1="520" y1="60" x2="520" y2="220"/>
+    </g>
+
+    <!-- solar noon -->
+    <line x1="410" y1="66" x2="410" y2="220" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="420" y="207" font-family="IBM Plex Sans, sans-serif" font-size="11.5" font-weight="600" fill="var(--accent)">Solar noon, about 1.13pm</text>
+
+    <!-- readings: y = 220 - value*12.3 -->
+    <circle cx="275" cy="85" r="6.5" fill="var(--uv-extreme)" stroke="var(--surface)" stroke-width="2"/>
+    <circle cx="415" cy="72" r="6.5" fill="var(--uv-extreme)" stroke="var(--surface)" stroke-width="2"/>
+    <circle cx="625" cy="97" r="6.5" fill="var(--uv-vhigh)" stroke="var(--surface)" stroke-width="2"/>
+
+    <g font-family="IBM Plex Sans, sans-serif" font-size="12.5" font-weight="600" fill="currentColor" text-anchor="middle">
+      <text x="275" y="72">11</text><text x="415" y="59">12</text><text x="625" y="84">10</text>
+    </g>
+    <g font-family="IBM Plex Mono, monospace" font-size="9.5" fill="currentColor" opacity="0.6">
+      <text x="275" y="107" text-anchor="middle">12.15pm</text>
+      <text x="428" y="76" text-anchor="start">1.15pm</text>
+      <text x="625" y="119" text-anchor="middle">2.45pm</text>
+    </g>
+
+    <text x="24" y="272" font-family="IBM Plex Sans, sans-serif" font-size="11.5" fill="currentColor" opacity="0.62">Only these three readings were published. No curve is drawn between them, because none was measured.</text>
+  </svg><figcaption><b>Figure 2</b> &nbsp;The three index readings published for 27 March 2024<sup><a href="#r1">1</a></sup>, plotted against the index categories<sup><a href="#r7">7</a></sup>, with solar noon from published solar tables for Singapore<sup><a href="#r16">16</a></sup>. The peak reading falls within two minutes of solar noon.</figcaption></figure>
+<h2>Why the clock misleads you</h2>
+<p>Singapore keeps time eight hours ahead of Coordinated Universal Time, but sits at a longitude nearer to seven. The consequence is that solar noon, the moment the sun reaches its highest point, falls at around 1pm rather than at midday: in January it occurs at approximately 1.13pm, with sunrise at 7.11am and sunset at 7.16pm<sup><a href="#r16">16</a></sup>.</p>
+<p>This is why the 27 March peak arrived when it did. The four-hour window of highest intensity is not symmetrical around twelve o'clock, and the intuition that danger peaks at lunchtime and recedes through the early afternoon is displaced by roughly an hour. The National Environment Agency's stated window of 11am to 3pm<sup><a href="#r8">8</a></sup> accommodates this, but the underlying reason is rarely explained, and a 2.30pm walk is frequently treated as safer than it is.</p>
+<h2>What is actually reaching the skin</h2>
+<p>Terrestrial ultraviolet radiation is conventionally divided into ultraviolet B, spanning approximately 290 to 320 nanometres, and ultraviolet A, spanning 320 to 400 nanometres<sup><a href="#r3">3</a></sup>. The proportions are heavily skewed. Ultraviolet B accounts for around 0.5 per cent of solar spectral irradiance at ground level, while ultraviolet A represents approximately 95 per cent of the ultraviolet radiation reaching the surface and is at least twenty times more abundant<sup><a href="#r3">3</a></sup><sup><a href="#r15">15</a></sup>.</p>
+<p>The two behave differently in tissue. Of the ultraviolet B reaching the skin, around 70 per cent is absorbed by the stratum corneum, 20 per cent reaches the viable epidermis and only 10 per cent penetrates the upper dermis. Ultraviolet A travels further, with 20 to 30 per cent reaching the deep dermis. Ultraviolet B is the more effective waveband for producing erythema by roughly three orders of magnitude, which is why the index is weighted towards it; ultraviolet A appears to play the major role in the deterioration of dermal structure that produces the photoaged appearance<sup><a href="#r3">3</a></sup>.</p>
+<p>The practical inference is uncomfortable. Sunburn is a signal generated almost entirely by the minority waveband. The waveband responsible for most dermal change produces no immediate sensation at all, is present in far greater quantity throughout the reporting day, and passes through window glass.</p>
+<figure><svg viewBox="0 0 720 320" role="img" aria-label="Cross-section of skin showing ultraviolet B reaching the epidermis and ultraviolet A penetrating to the deep dermis, with the proportion absorbed at each layer.">
+    <text x="24" y="28" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="1.4" fill="currentColor" opacity="0.55">FIGURE 3 &nbsp;WAVEBAND, ABUNDANCE AND DEPTH OF PENETRATION</text>
+    <rect x="300" y="54" width="396" height="26" fill="var(--skin-1)"/>
+    <rect x="300" y="80" width="396" height="62" fill="var(--skin-2)"/>
+    <rect x="300" y="142" width="396" height="140" fill="var(--skin-3)"/>
+    <g font-family="IBM Plex Sans, sans-serif" font-size="11.5" fill="currentColor" opacity="0.85">
+      <text x="312" y="72">Stratum corneum</text>
+      <text x="312" y="98">Viable epidermis</text>
+      <text x="312" y="162">Dermis</text>
+    </g>
+    <g>
+      <line x1="120" y1="66" x2="292" y2="66" stroke="var(--uv-vhigh)" stroke-width="3"/>
+      <polygon points="292,60 302,66 292,72" fill="var(--uv-vhigh)"/>
+      <text x="24" y="58" font-family="IBM Plex Sans, sans-serif" font-size="13" font-weight="600" fill="currentColor">UVB</text>
+      <text x="24" y="76" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="currentColor" opacity="0.62">290&ndash;320 nm</text>
+      <text x="24" y="92" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="currentColor" opacity="0.62">~0.5% of ground-level UV</text>
+      <line x1="292" y1="66" x2="292" y2="132" stroke="var(--uv-vhigh)" stroke-width="3" opacity="0.45"/>
+      <polygon points="286,132 292,142 298,132" fill="var(--uv-vhigh)" opacity="0.45"/>
+    </g>
+    <g>
+      <line x1="120" y1="200" x2="292" y2="200" stroke="var(--accent)" stroke-width="3"/>
+      <polygon points="292,194 302,200 292,206" fill="var(--accent)"/>
+      <text x="24" y="192" font-family="IBM Plex Sans, sans-serif" font-size="13" font-weight="600" fill="currentColor">UVA</text>
+      <text x="24" y="210" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="currentColor" opacity="0.62">320&ndash;400 nm</text>
+      <text x="24" y="226" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="currentColor" opacity="0.62">~95% of ground-level UV</text>
+      <line x1="330" y1="200" x2="330" y2="256" stroke="var(--accent)" stroke-width="3"/>
+      <polygon points="324,256 330,268 336,256" fill="var(--accent)"/>
+    </g>
+    <g font-family="IBM Plex Sans, sans-serif" font-size="11.5" fill="currentColor" opacity="0.75">
+      <text x="440" y="74">70% absorbed here</text>
+      <text x="440" y="116">20% reaches here</text>
+      <text x="440" y="180">10% of UVB reaches the upper dermis</text>
+      <text x="440" y="252">20&ndash;30% of UVA reaches the deep dermis</text>
+    </g>
+    <text x="24" y="300" font-family="IBM Plex Sans, sans-serif" font-size="11.5" fill="currentColor" opacity="0.62">UVB drives erythema. UVA drives dermal change, and produces no immediate sensation.</text>
+  </svg><figcaption><b>Figure 3</b> &nbsp;Waveband, relative abundance and depth of penetration. Wavelength ranges, abundance and absorption fractions from Battie and Verschoore<sup><a href="#r3">3</a></sup>; relative abundance corroborated by the World Health Organization<sup><a href="#r15">15</a></sup>. Layer thicknesses are schematic and not to scale.</figcaption></figure>
+<h2>What cloud and reflection do and do not change</h2>
+<p>Cloud cover is the most common source of false reassurance. The World Health Organization states that light or thin cloud has little effect on ultraviolet levels and may even enhance them through scattering<sup><a href="#r15">15</a></sup>. In a climate with substantial convective cloud but frequent breaks, this produces a pattern in which the index falls sharply during a thunderstorm and returns to Very High shortly afterwards, while the subjective impression is of an overcast day.</p>
+<p>Reflected radiation adds to direct exposure and is not blocked by conventional shade. Dry sand reflects approximately 15 per cent of incident ultraviolet radiation and sea foam approximately 25 per cent<sup><a href="#r15">15</a></sup>. A parasol on a beach, or an umbrella on a bright pavement, reduces the direct component while leaving the scattered and reflected components largely intact.</p>
+<p>Shade nonetheless remains the single most effective measure available, and the index-linked guidance is explicit that it should be sought from a value of 3 upwards and that outdoor exposure should be avoided from 8<sup><a href="#r14">14</a></sup>. On an ordinary afternoon sitting between 6 and 9<sup><a href="#r1">1</a></sup>, that is not an occasional instruction.</p>
+<h2>What this does to skin here, and what people actually do</h2>
+<p>The clinical picture at this latitude is dominated by pigment rather than by cancer. Analysis of 12,692 skin cancers recorded by the Singapore Cancer Registry between 1968 and 2016 found melanoma accounted for 5.8 per cent of cases, with melanoma and squamous cell carcinoma incidence remaining low and stable across the Chinese, Malay and Indian populations; basal cell carcinoma was the subtype that rose<sup><a href="#r11">11</a></sup>. Pigmented changes, meanwhile, constitute the major sign of skin photoageing in Asian populations<sup><a href="#r3">3</a></sup>, and melasma, the symmetrical facial hyperpigmentation that predominates in Fitzpatrick skin types III and IV, is both common and difficult to treat: a randomised trial conducted at the National Skin Centre required daily SPF 50 or higher in every arm as baseline care<sup><a href="#r4">4</a></sup>.</p>
+<p>Against that, local behaviour is poorly matched to local exposure. A cross-sectional survey of 2,328 adults found that 14.2 per cent wore protective headgear, 18.8 per cent used umbrellas regularly and 23.9 per cent applied a sunscreen of SPF 30 or above. Mean daily sun exposure was 1.45 hours. Just over half the sample, 53.4 per cent, had Fitzpatrick type III skin and a further 19.1 per cent type IV, which is precisely the group in which melasma predominates. Men, those with darker skin types and those with lower education spent more time in the sun and scored lower on protection<sup><a href="#r2">2</a></sup>.</p>
+<blockquote><p>&ldquo;Although [having dark skin] can have a certain protective effect, if they do not wear sunscreen and are exposed to the sun for long periods of time, they will have a higher chance of suffering from skin cancer.&rdquo;</p><cite>Dr Yew Yik Weng, National Skin Centre, co-author of the survey<sup><a href="#r12">12</a></sup></cite></blockquote>
+<h2>What adequate protection looks like, and what the evidence supports</h2>
+<p>Sun protection factor is determined under laboratory conditions at an application density of 2 milligrams per square centimetre<sup><a href="#r5">5</a></sup>. Application in ordinary use is generally well below that density, and because the relationship between quantity and protection is not linear, the protection actually achieved is materially lower than the labelled figure. Reapplication through a day of 6 to 9 is therefore not optional refinement; it is what makes the labelled figure approximately true.</p>
+<p>The guidance issued locally is for a broad-spectrum product of at least SPF 30, reapplied approximately every two hours, together with umbrellas, broad-brimmed hats and sunglasses<sup><a href="#r1">1</a></sup>. Ultraviolet A dominates the incident spectrum and passes through glass, so a product's ultraviolet A performance matters as much as its sun protection factor. Where a patient has recently undergone a light or laser procedure, daily photoprotection is recommended from the first day afterwards and maintained for three to six months, with visible-light protection where pigmentary relapse is the concern<sup><a href="#r17">17</a></sup>.</p>
+<p>Formulation choice is also a compliance question. Heat and humidity raise sebum production and sweat rate, and a product that is not tolerable to wear in this climate is not applied, which makes texture a clinical variable rather than a cosmetic preference. Where reapplication over make-up during the working day is the obstacle, powder and stick formats exist precisely to remove it.</p>
+<p>The underlying benefit has been tested. In a randomised controlled trial, 1,621 adults were assigned to daily or discretionary sunscreen use and followed for well over a decade; invasive melanoma occurred in three participants in the daily-use group against eleven in the discretionary group, a hazard ratio of 0.27 with a confidence interval of 0.08 to 0.97<sup><a href="#r9">9</a></sup>. In the same cohort, 903 adults under 55 followed for four and a half years showed 24 per cent less skin ageing on blinded assessment when assigned to daily use<sup><a href="#r10">10</a></sup>. The most frequently raised objection does not survive examination either: a review of experimental studies, field trials and 69 observational studies concluded that there is little evidence that sunscreen decreases 25-hydroxyvitamin D concentration in real-life settings, although the authors note that the field trials used sunscreen of around SPF 16<sup><a href="#r18">18</a></sup>.</p>
+<p>The conclusion that follows from the local measurements is narrow and unglamorous. The index sits in the High to Very High range on an ordinary afternoon, there is no month in which that stops being true, and on 27 March 2024 it was still at 10 at a quarter to three. Protection here is a daily variable, and the four hours between 11am and 3pm are the ones that determine most of the annual dose.</p>
+</article>
+<div class="faq"><h2>Frequently asked questions</h2>
+<details><summary>What is a normal ultraviolet index for Singapore?</summary><p>The Meteorological Service Singapore gives the typical daily maximum as six to nine, which corresponds to the High and Very High categories. On 27 March 2024 the reading at Changi reached 12<sup><a href="#r1">1</a></sup>. The National Environment Agency reports that Very High and Extreme levels are common between 11am and 3pm on a day with little cloud cover<sup><a href="#r8">8</a></sup>.</p></details>
+<details><summary>Which hours actually matter?</summary><p>The four hours from 11am to 3pm<sup><a href="#r8">8</a></sup>. Because Singapore's clock runs about an hour ahead of its solar time, solar noon falls at around 1.13pm rather than at midday<sup><a href="#r16">16</a></sup>, which is why the peak reading on 27 March 2024 was recorded at about 1.15pm<sup><a href="#r1">1</a></sup>.</p></details>
+<details><summary>Which months are worst?</summary><p>February, March, April and September tend to see the highest ultraviolet radiation, because annual variation here is driven by cloud cover rather than by the sun's elevation<sup><a href="#r1">1</a></sup>.</p></details>
+<details><summary>Does an overcast day mean I can skip sunscreen?</summary><p>No. The World Health Organization states that light or thin cloud has little effect on ultraviolet levels and may even enhance them through scattering<sup><a href="#r15">15</a></sup>. In a climate of frequent short storms and rapid clearing, the subjective impression of an overcast day is a poor guide to the measured index.</p></details>
+<details><summary>Is sunscreen still necessary indoors or in a car?</summary><p>Ultraviolet A accounts for approximately 95 per cent of the ultraviolet radiation reaching ground level<sup><a href="#r3">3</a></sup><sup><a href="#r15">15</a></sup>, penetrates to the deep dermis<sup><a href="#r3">3</a></sup>, and passes through window glass. For anyone managing pigmentation or photoageing, daily use is the relevant standard rather than outdoor use.</p></details>
+</div>
+<div class="refs"><h2>References</h2><p class="apa">Formatted to APA 7th edition and numbered in order of first citation, so the markers in the text resolve directly.</p><ol class="refs-list">
+<li id="r1">AsiaOne. (2024, March 27). <em>Wear more sunscreen, keep umbrellas handy: UV index in Singapore hits extreme levels on March 27</em>. <a href="https://www.asiaone.com/singapore/wear-more-sunscreen-keep-umbrellas-handy-uv-index-singapore-hits-extreme-levels-march-27">https://www.asiaone.com/singapore/wear-more-sunscreen-keep-umbrellas-handy-uv-index-singapore-hits-extreme-levels-march-27</a></li>
+<li id="r2">Cheong, K. W., Yew, Y. W., &amp; Seow, W. J. (2019). Sun exposure and sun safety habits among adults in Singapore: A cross-sectional study. <em>Annals, Academy of Medicine, Singapore, 48</em>(12), 412&ndash;428. <a href="https://doi.org/10.47102/annals-acadmedsg.V48N12p412">https://doi.org/10.47102/annals-acadmedsg.V48N12p412</a></li>
+<li id="r3">Battie, C., &amp; Verschoore, M. (2012). Cutaneous solar ultraviolet exposure and clinical aspects of photodamage. <em>Indian Journal of Dermatology, Venereology and Leprology, 78</em>(7), 9&ndash;14. <a href="https://doi.org/10.4103/0378-6323.97350">https://doi.org/10.4103/0378-6323.97350</a></li>
+<li id="r4">Goh, C. L., Chuah, S. Y., Tien, S., Thng, G., Vitale, M. A., &amp; Delgado-Rubin, A. (2018). Double-blind, placebo-controlled trial to evaluate the effectiveness of <em>Polypodium leucotomos</em> extract in the treatment of melasma in Asian skin: A pilot study. <em>The Journal of Clinical and Aesthetic Dermatology, 11</em>(3), 14&ndash;19. <a href="https://jcadonline.com/effectiveness-polypodium-leucotomos-extract-melasma-asian-skin/">https://jcadonline.com/effectiveness-polypodium-leucotomos-extract-melasma-asian-skin/</a></li>
+<li id="r5">CIRS Group. (n.d.). <em>Sunscreen SPF and UVA in the EU, UK and China: A practical guide</em>. Retrieved 7 September 2026, from <a href="https://www.cirs-group.com/en/cosmetics/sunscreen-spf-and-uva-in-the-eu-uk-and-china-a-practical-guide">https://www.cirs-group.com/en/cosmetics/sunscreen-spf-and-uva-in-the-eu-uk-and-china-a-practical-guide</a></li>
+<li id="r6">National Environment Agency. (2025). <em>Historical ultraviolet index (UVI) 2024</em> [Data set]. data.gov.sg. <a href="https://data.gov.sg/datasets/d_6dc276435e6da601b1945553b8669f09/view">https://data.gov.sg/datasets/d_6dc276435e6da601b1945553b8669f09/view</a></li>
+<li id="r7">National Environment Agency. (n.d.). <em>Ultraviolet index</em>. Retrieved 7 September 2026, from <a href="https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index">https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index</a></li>
+<li id="r8">National Environment Agency. (n.d.). <em>UV radiation and UV index</em>. Retrieved 7 September 2026, from <a href="https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index/uv-radiation-uv-index">https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index/uv-radiation-uv-index</a></li>
+<li id="r9">Green, A. C., Williams, G. M., Logan, V., &amp; Strutton, G. M. (2011). Reduced melanoma after regular sunscreen use: Randomized trial follow-up. <em>Journal of Clinical Oncology, 29</em>(3), 257&ndash;263. <a href="https://doi.org/10.1200/JCO.2010.28.7078">https://doi.org/10.1200/JCO.2010.28.7078</a></li>
+<li id="r10">Hughes, M. C. B., Williams, G. M., Baker, P., &amp; Green, A. C. (2013). Sunscreen and prevention of skin aging: A randomized trial. <em>Annals of Internal Medicine, 158</em>(11), 781&ndash;790. <a href="https://doi.org/10.7326/0003-4819-158-11-201306040-00002">https://doi.org/10.7326/0003-4819-158-11-201306040-00002</a></li>
+<li id="r11">Oh, C. C., Jin, A., &amp; Koh, W.-P. (2021). Trends of cutaneous basal cell carcinoma, squamous cell carcinoma, and melanoma among the Chinese, Malays, and Indians in Singapore from 1968&ndash;2016. <em>JAAD International</em>. <a href="https://www.jaadinternational.org/article/S2666-3287(21)00037-7/fulltext">https://www.jaadinternational.org/article/S2666-3287(21)00037-7/fulltext</a></li>
+<li id="r12">Saw Swee Hock School of Public Health. (2020, March 2). <em>Local survey: Sun safety habits not widely practised in Singapore</em>. National University of Singapore. <a href="https://sph.nus.edu.sg/news/local-survey-sun-safety-habits-not-widely-practised-in-singapore">https://sph.nus.edu.sg/news/local-survey-sun-safety-habits-not-widely-practised-in-singapore</a></li>
+<li id="r13">SingHealth. (2018, February 23). <em>SGH doctor on UV levels in Singapore</em>. HealthXchange. <a href="https://www.healthxchange.sg/news/sgh-doctor-uv-levels-in-singapore">https://www.healthxchange.sg/news/sgh-doctor-uv-levels-in-singapore</a></li>
+<li id="r14">World Health Organization. (n.d.). <em>Radiation: The ultraviolet (UV) index</em>. Retrieved 7 September 2026, from <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-the-ultraviolet-(uv)-index">https://www.who.int/news-room/questions-and-answers/item/radiation-the-ultraviolet-(uv)-index</a></li>
+<li id="r15">World Health Organization. (n.d.). <em>Radiation: Ultraviolet (UV) radiation</em>. Retrieved 7 September 2026, from <a href="https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)">https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)</a></li>
+<li id="r16">Worlddata.info. (n.d.). <em>Sunrise and sunset in Singapore</em>. Retrieved 7 September 2026, from <a href="https://www.worlddata.info/asia/singapore/sunset.php">https://www.worlddata.info/asia/singapore/sunset.php</a></li>
+<li id="r17">Yi, K.-H., Lee, K. W. A., Chan, L. K. W., Song, J. K., Lee, C. H., &amp; Kim, J.-H. (2025). Importance of using sunscreen after light or laser facial treatment: A literature review. <em>Life, 15</em>(9), Article 1484. <a href="https://doi.org/10.3390/life15091484">https://doi.org/10.3390/life15091484</a></li>
+<li id="r18">Neale, R. E., Khan, S. R., Lucas, R. M., Waterhouse, M., Whiteman, D. C., &amp; Olsen, C. M. (2019). The effect of sunscreen on vitamin D: A review. <em>British Journal of Dermatology, 181</em>(5), 907&ndash;915. <a href="https://doi.org/10.1111/bjd.17980">https://doi.org/10.1111/bjd.17980</a></li>
+</ol></div>
+<footer>Internal draft mirror. Sunscreens are regulated in Singapore as cosmetic products under the ASEAN Cosmetic Directive and may not carry therapeutic claims.</footer>
+</div>
+</body>
+</html>
