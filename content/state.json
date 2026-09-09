@@ -18,7 +18,7 @@
         },
         {
           "type": "p",
-          "html": "The ultraviolet index is a standardised scale developed jointly by the World Health Organization, the United Nations Environment Programme and the World Meteorological Organization to express the intensity of ultraviolet radiation at ground level<sup><a href=\"#r8\">8</a></sup>. It is weighted for erythema, meaning it is calibrated to the wavelengths that redden human skin rather than to total ultraviolet energy."
+          "html": "The ultraviolet index is a standardised scale developed jointly by the World Health Organization, the United Nations Environment Programme and the World Meteorological Organization to express the intensity of ultraviolet radiation at ground level<sup><a href=\"#r8\">8</a></sup>. The scale is weighted for erythema, calibrated to the wavelengths that redden human skin rather than to total ultraviolet energy."
         },
         {
           "type": "p",
@@ -40,7 +40,7 @@
         },
         {
           "type": "p",
-          "html": "The Meteorological Service Singapore gives the typical daily maximum ultraviolet index as six to nine<sup><a href=\"#r1\">1</a></sup>, which places an ordinary cloudless afternoon in the High to Very High categories before any unusual conditions are involved. There is no month in which the protective threshold of 3 is not routinely exceeded around the middle of the day."
+          "html": "The Meteorological Service Singapore gives the typical daily maximum ultraviolet index as six to nine<sup><a href=\"#r1\">1</a></sup>, which places an ordinary cloudless afternoon in the High to Very High categories before any unusual conditions are involved. In every month the protective threshold of 3 is routinely exceeded around the middle of the day."
         },
         {
           "type": "p",
@@ -77,11 +77,11 @@
         },
         {
           "type": "p",
-          "html": "This is why the 27 March peak arrived when it did. The four-hour window of highest intensity is not symmetrical around twelve o'clock, and the intuition that danger peaks at lunchtime and recedes through the early afternoon is displaced by roughly an hour. The National Environment Agency's stated window of 11am to 3pm<sup><a href=\"#r8\">8</a></sup> accommodates this, but the underlying reason is rarely explained, and a 2.30pm walk is frequently treated as safer than it is."
+          "html": "This is why the 27 March peak arrived when it did. The four-hour window of highest intensity is not symmetrical around twelve o'clock, and the intuition that danger peaks at lunchtime and recedes through the early afternoon is displaced by roughly an hour. The 11am to 3pm window published by the National Environment Agency<sup><a href=\"#r8\">8</a></sup> accommodates this, but the underlying reason is rarely explained, and a 2.30pm walk is frequently treated as safer than it is."
         },
         {
           "type": "h2",
-          "html": "What is actually reaching the skin"
+          "html": "What reaches the skin"
         },
         {
           "type": "p",
@@ -93,7 +93,7 @@
         },
         {
           "type": "p",
-          "html": "The practical inference is uncomfortable. Sunburn is a signal generated almost entirely by the minority waveband. The waveband responsible for most dermal change produces no immediate sensation at all, is present in far greater quantity throughout the reporting day, and passes through window glass."
+          "html": "Sunburn is a signal generated almost entirely by the minority waveband. The waveband responsible for most dermal change produces no immediate sensation at all, is present in far greater quantity throughout the reporting day, and passes through window glass."
         },
         {
           "type": "figure",
@@ -124,7 +124,7 @@
         },
         {
           "type": "h2",
-          "html": "What this does to skin here, and what people actually do"
+          "html": "What this does to skin here, and what people do"
         },
         {
           "type": "p",
@@ -145,7 +145,7 @@
         },
         {
           "type": "p",
-          "html": "Sun protection factor is determined under laboratory conditions at an application density of 2 milligrams per square centimetre<sup><a href=\"#r5\">5</a></sup>. Application in ordinary use is generally well below that density, and because the relationship between quantity and protection is not linear, the protection actually achieved is materially lower than the labelled figure. Reapplication through a day of 6 to 9 is therefore not optional refinement; it is what makes the labelled figure approximately true."
+          "html": "Sun protection factor is determined under laboratory conditions at an application density of 2 milligrams per square centimetre<sup><a href=\"#r5\">5</a></sup>. Application in ordinary use is generally well below that density, and because the relationship between quantity and protection is not linear, the protection achieved is materially lower than the labelled figure. Reapplication through a day of 6 to 9 is what makes the labelled figure approximately true."
         },
         {
           "type": "p",
@@ -157,7 +157,7 @@
         },
         {
           "type": "p",
-          "html": "The underlying benefit has been tested. In a randomised controlled trial, 1,621 adults were assigned to daily or discretionary sunscreen use and followed for well over a decade; invasive melanoma occurred in three participants in the daily-use group against eleven in the discretionary group, a hazard ratio of 0.27 with a confidence interval of 0.08 to 0.97<sup><a href=\"#r9\">9</a></sup>. In the same cohort, 903 adults under 55 followed for four and a half years showed 24 per cent less skin ageing on blinded assessment when assigned to daily use<sup><a href=\"#r10\">10</a></sup>. The most frequently raised objection does not survive examination either: a review of experimental studies, field trials and 69 observational studies concluded that there is little evidence that sunscreen decreases 25-hydroxyvitamin D concentration in real-life settings, although the authors note that the field trials used sunscreen of around SPF 16<sup><a href=\"#r18\">18</a></sup>."
+          "html": "The underlying benefit has been tested. A randomised controlled trial assigned 1,621 adults to daily or discretionary sunscreen use and followed them for well over a decade; invasive melanoma occurred in three participants in the daily-use group against eleven in the discretionary group, a hazard ratio of 0.27 with a confidence interval of 0.08 to 0.97<sup><a href=\"#r9\">9</a></sup>. In the same cohort, 903 adults under 55 followed for four and a half years showed 24 per cent less skin ageing on blinded assessment when assigned to daily use<sup><a href=\"#r10\">10</a></sup>. The most frequently raised objection does not survive examination either: a review of experimental studies, field trials and 69 observational studies concluded that there is little evidence that sunscreen decreases 25-hydroxyvitamin D concentration in real-life settings, although the authors note that the field trials used sunscreen of around SPF 16<sup><a href=\"#r18\">18</a></sup>."
         },
         {
           "type": "image",
@@ -167,7 +167,7 @@
         },
         {
           "type": "p",
-          "html": "The conclusion that follows from the local measurements is narrow and unglamorous. The index sits in the High to Very High range on an ordinary afternoon, there is no month in which that stops being true, and on 27 March 2024 it was still at 10 at a quarter to three. Protection here is a daily variable, and the four hours between 11am and 3pm are the ones that determine most of the annual dose."
+          "html": "The index sits in the High to Very High range on an ordinary afternoon, there is no month in which that stops being true, and on 27 March 2024 it was still at 10 at a quarter to three. Protection here is a daily variable, and the four hours between 11am and 3pm are the ones that determine most of the annual dose."
         }
       ],
       "faq": [
@@ -176,7 +176,7 @@
           "a": "The Meteorological Service Singapore gives the typical daily maximum as six to nine, which corresponds to the High and Very High categories. On 27 March 2024 the reading at Changi reached 12<sup><a href=\"#r1\">1</a></sup>. The National Environment Agency reports that Very High and Extreme levels are common between 11am and 3pm on a day with little cloud cover<sup><a href=\"#r8\">8</a></sup>."
         },
         {
-          "q": "Which hours actually matter?",
+          "q": "Which hours matter most?",
           "a": "The four hours from 11am to 3pm<sup><a href=\"#r8\">8</a></sup>. Because Singapore's clock runs about an hour ahead of its solar time, solar noon falls at around 1.13pm rather than at midday<sup><a href=\"#r16\">16</a></sup>, which is why the peak reading on 27 March 2024 was recorded at about 1.15pm<sup><a href=\"#r1\">1</a></sup>."
         },
         {
@@ -271,7 +271,7 @@
       "id": "oral-photoprotection",
       "eyebrow": "Photoprotection &middot; Evidence review",
       "title": "Sun protection you swallow",
-      "standfirst": "A capsule that makes your skin harder to burn sounds like the answer to a country where the ultraviolet index sits between six and nine on an ordinary day.<sup><a href=\"#r1\">1</a></sup> The honest version is narrower than the marketing and more interesting than the scepticism. Here is what has actually been measured in people, who funded the measuring, and where the evidence runs out.",
+      "standfirst": "A capsule that makes your skin harder to burn sounds like the answer to a country where the ultraviolet index sits between six and nine on an ordinary day.<sup><a href=\"#r1\">1</a></sup> The version the evidence supports is narrower than the marketing and more interesting than the scepticism. Here is what has been measured in people, who funded the measuring, and where the evidence runs out.",
       "sub": "What oral photoprotection can and cannot do, read against the trials rather than the packaging.",
       "byline": "[Author name, credentials]",
       "reviewer": "[Consultant dermatologist]",
@@ -279,7 +279,7 @@
       "blocks": [
         {
           "type": "h2",
-          "html": "What is actually in the capsule"
+          "html": "What is in the capsule"
         },
         {
           "type": "p",
@@ -287,11 +287,11 @@
         },
         {
           "type": "p",
-          "html": "The daily capsule format in the Heliocare 360 range pairs the extract with niacinamide, vitamin E and vitamin D, and is taken once a day before sun exposure.<sup><a href=\"#r3\">3</a></sup> Doses across the published research vary considerably by indication, from 240 mg daily up to 1,200 mg, and no standard protocol has been established.<sup><a href=\"#r4\">4</a></sup> That variation matters, and we will come back to it."
+          "html": "The daily capsule format in the Heliocare 360 range pairs the extract with niacinamide, vitamin E and vitamin D, and is taken once a day before sun exposure.<sup><a href=\"#r3\">3</a></sup> Doses across the published research vary considerably by indication, from 240 mg daily up to 1,200 mg, and no standard protocol has been established.<sup><a href=\"#r4\">4</a></sup>"
         },
         {
           "type": "p",
-          "html": "One thing to settle immediately. Extraction method appears to change what the extract does. The authors of the largest photoprotection review state plainly that their findings &ldquo;cannot be extrapolated to other formulations&rdquo; of <em>Polypodium leucotomos</em>.<sup><a href=\"#r5\">5</a></sup> A generic fern extract bought online is not the same product as a standardised pharmaceutical-grade one, and the research on one does not transfer to the other."
+          "html": "Extraction method appears to change what the extract does. The authors of the largest photoprotection review state plainly that their findings &ldquo;cannot be extrapolated to other formulations&rdquo; of <em>Polypodium leucotomos</em>.<sup><a href=\"#r5\">5</a></sup> A generic fern extract bought online is not the same product as a standardised pharmaceutical-grade one, and the research on one does not transfer to the other."
         },
         {
           "type": "h2",
@@ -307,7 +307,7 @@
         },
         {
           "type": "p",
-          "html": "That sounds substantial until you look at the size of the individual studies. In the 2018 review, sample sizes ranged from five participants to sixty-one.<sup><a href=\"#r5\">5</a></sup> These are small, mostly short trials, and several were funded by the manufacturer. The effect appears real and it appears consistent in direction. It is not large, and it has not been demonstrated at the scale that would settle the question."
+          "html": "That sounds substantial until you look at the size of the individual studies. In the 2018 review, sample sizes ranged from five participants to sixty-one.<sup><a href=\"#r5\">5</a></sup> These are small, mostly short trials, and several were funded by the manufacturer. The effect appears real and consistent in direction, but not large, and it has not been demonstrated at the scale that would settle the question."
         },
         {
           "type": "h2",
@@ -323,7 +323,7 @@
         },
         {
           "type": "p",
-          "html": "Two caveats belong in the same breath. A senior author holds financial relationships with the manufacturer, and the investigators themselves called for larger and adequately powered studies before this changes clinical practice. Separately, a planned independent trial of the extract for skin cancer prevention at Massachusetts General Hospital was withdrawn in 2019 for lack of funding, before a single participant was enrolled.<sup><a href=\"#r7\">7</a></sup> The question of whether oral photoprotection prevents skin cancer has, in other words, not been asked properly yet."
+          "html": "A senior author holds financial relationships with the manufacturer, and the investigators themselves called for larger and adequately powered studies before this changes clinical practice. Separately, a planned independent trial of the extract for skin cancer prevention at Massachusetts General Hospital was withdrawn in 2019 for lack of funding, before a single participant was enrolled.<sup><a href=\"#r7\">7</a></sup> The question of whether oral photoprotection prevents skin cancer has not been asked properly yet."
         },
         {
           "type": "h2",
@@ -331,7 +331,7 @@
         },
         {
           "type": "p",
-          "html": "Melasma matters more here than sunburn does. It is the symmetrical brown patching across the cheeks, forehead and upper lip that is common in Fitzpatrick III and IV skin, worsens with sun and heat, and recurs stubbornly."
+          "html": "Melasma matters more here than sunburn does: the symmetrical brown patching across the cheeks, forehead and upper lip is common in Fitzpatrick III and IV skin, worsens with sun and heat, and recurs stubbornly."
         },
         {
           "type": "p",
@@ -343,11 +343,11 @@
         },
         {
           "type": "p",
-          "html": "Read that honestly and it says something specific: patients on the extract improved <em>faster</em>, and by three months both groups had improved substantially. This was a small pilot, it was sponsored by the manufacturer, and two of its authors were employees of that manufacturer.<sup><a href=\"#r8\">8</a></sup> The broader 2025 review records melasma results across the literature as mixed, with at least one study finding no significant benefit over placebo.<sup><a href=\"#r4\">4</a></sup>"
+          "html": "Patients on the extract improved <em>faster</em>, and by three months both groups had improved substantially. This was a small pilot, it was sponsored by the manufacturer, and two of its authors were employees of that manufacturer.<sup><a href=\"#r8\">8</a></sup> The broader 2025 review records melasma results across the literature as mixed, with at least one study finding no significant benefit over placebo.<sup><a href=\"#r4\">4</a></sup>"
         },
         {
           "type": "p",
-          "html": "What the capsule is not, on this evidence, is a melasma treatment. What it may be is something that gets an existing treatment working sooner."
+          "html": "On this evidence the capsule is not a melasma treatment. It may be something that gets an existing treatment working sooner."
         },
         {
           "type": "h2",
@@ -367,11 +367,11 @@
         },
         {
           "type": "h2",
-          "html": "Meanwhile, the thing that is proven"
+          "html": "The part that is not in doubt"
         },
         {
           "type": "p",
-          "html": "It is easy to spend an article on the capsule and skip past the evidence for the cream, which is considerably stronger."
+          "html": "An article on the capsule can easily skip past the evidence for the cream, which is considerably stronger."
         },
         {
           "type": "p",
@@ -391,7 +391,7 @@
         },
         {
           "type": "p",
-          "html": "Singapore sits close enough to the equator that the sun is near-overhead for most of the year. Daily maximum ultraviolet index readings average six to nine, peaking between 10am and 3pm, and readings of 12 to 15 have been recorded during clear spells.<sup><a href=\"#r1\">1</a></sup> There is no season during which the exposure argument goes quiet."
+          "html": "Singapore sits close enough to the equator that the sun is near-overhead for most of the year. Daily maximum ultraviolet index readings average six to nine, peaking between 10am and 3pm, and readings of 12 to 15 have been recorded during clear spells.<sup><a href=\"#r1\">1</a></sup> The exposure argument never goes quiet here."
         },
         {
           "type": "p",
@@ -423,7 +423,7 @@
         },
         {
           "type": "p",
-          "html": "Three questions remain genuinely open. Whether oral photoprotection reduces skin cancer incidence has never been tested in an adequately powered independent trial, and the one attempt was withdrawn before enrolment.<sup><a href=\"#r7\">7</a></sup> Optimal dosing has not been established, with published regimens ranging from 240 mg to 1,200 mg daily.<sup><a href=\"#r4\">4</a></sup> And the effects on visible light and infrared radiation, which are described mechanistically in the manufacturer's own materials, rest largely on laboratory work rather than the human clinical endpoints that carry the ultraviolet claims.<sup><a href=\"#r2\">2</a></sup>"
+          "html": "Three questions remain open. Whether oral photoprotection reduces skin cancer incidence has never been tested in an adequately powered independent trial, and the one attempt was withdrawn before enrolment.<sup><a href=\"#r7\">7</a></sup> Optimal dosing has not been established, with published regimens ranging from 240 mg to 1,200 mg daily.<sup><a href=\"#r4\">4</a></sup> And the effects on visible light and infrared radiation, which are described mechanistically in the manufacturer's own materials, rest largely on laboratory work rather than the human clinical endpoints that carry the ultraviolet claims.<sup><a href=\"#r2\">2</a></sup>"
         },
         {
           "type": "p",
