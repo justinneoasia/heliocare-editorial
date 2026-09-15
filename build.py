@@ -199,7 +199,8 @@ def render_article(a):
             b.append('<li id="r%d">%s</li>' % (r['n'], r['html']))
         b.append('</ol></div>')
     b.append('<footer>Internal draft mirror. Sunscreens are regulated in Singapore as cosmetic '
-             'products under the ASEAN Cosmetic Directive and may not carry therapeutic claims.</footer>')
+             'products under the ASEAN Cosmetic Directive; oral supplements are regulated as '
+             'health supplements. Neither may carry claims to treat, prevent or cure disease.</footer>')
     return page(strip_tags(a['title']).strip(), '\n'.join(b), desc=strip_tags(a['sub']).strip())
 
 

@@ -700,6 +700,240 @@
           "html": "Cantabria Labs. (n.d.). <em>HELIOCARE 360 D Plus capsules</em>. Retrieved 9 September 2026, from <a href=\"https://www.cantabrialabs.com/products/heliocare-360-d-plus-capsules/\">https://www.cantabrialabs.com/products/heliocare-360-d-plus-capsules/</a>"
         }
       ]
+    },
+    {
+      "id": "luminance",
+      "eyebrow": "Photoprotection &middot; Pigment control",
+      "title": "Brighten and even skin tone with Heliocare Luminance",
+      "standfirst": "Heliocare Luminance is an oral capsule that works on pigment from the inside. Two capsules a day across a twenty-eight day cycle<sup><a href=\"#r1\">1</a></sup>, with four actives that meet the pigment pathway at four different points to help brighten and even out the complexion. Dark spots do not begin at the surface, and this is built to work where they start.",
+      "sub": "What each of the four actives does to brighten and even your skin from within.",
+      "byline": "[Author name, credentials]",
+      "reviewer": "[Consultant dermatologist]",
+      "date": "15 September 2026",
+      "blocks": [
+        {
+          "type": "h2",
+          "html": "The light your sunscreen was not built to filter"
+        },
+        {
+          "type": "p",
+          "html": "Sunlight is not one thing. It arrives as ultraviolet B, ultraviolet A, visible light including blue light, and infrared, and each one reaches a different depth in the skin. The SPF number on a bottle describes protection against ultraviolet B and, to a lesser degree, part of the ultraviolet A range. It says nothing about the rest of what is landing on you<sup><a href=\"#r2\">2</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "That gap matters more here than the global advice suggests. Around half the sunlight reaching the ground is visible light, the part you can see, and in medium to deep skin tones it is the blue-violet end of that range which drives pigment<sup><a href=\"#r2\">2</a></sup>. A survey of 2,328 adults in Singapore found 53.4% with Fitzpatrick type III skin and another 19.1% type IV<sup><a href=\"#r3\">3</a></sup>, the medium-to-olive range on the six-point scale dermatologists use. Most of us, in other words, sit exactly where visible light does its work."
+        },
+        {
+          "type": "p",
+          "html": "Outdoors that is the glare coming back off a pavement at one in the afternoon. Indoors it is the window seat on the bus home and the screen you spend the rest of the day in front of. None of it feels like sun exposure, and all of it reaches the cells that make pigment."
+        },
+        {
+          "type": "note",
+          "html": "<h4>The words you will meet below</h4>\n      <p><strong>Pigment cell (melanocyte).</strong> The cell that manufactures melanin, sitting near the base of the outer skin layer rather than on the surface.</p>\n      <p><strong>Surface skin cell (keratinocyte).</strong> The cells that make up most of the skin you can see. They receive finished pigment from the pigment cell and carry it upwards.</p>\n      <p><strong>Tyrosinase.</strong> The enzyme that starts pigment production. Slow it down and less melanin gets made in the first place.</p>\n      <p><strong>Renewal cycle.</strong> Skin replaces its outer layer roughly every twenty-eight days, which is the natural clock anything working at this depth runs on.</p>"
+        },
+        {
+          "type": "h2",
+          "html": "How a dark spot forms"
+        },
+        {
+          "type": "p",
+          "html": "Melanin is made in stages, and every stage is somewhere you can step in. Light and heat reach the skin and the surface cells respond by releasing chemical messengers. Those messengers reach the pigment cell, where tyrosinase switches on and converts a building-block amino acid into melanin through a short chain of steps. The finished pigment is packed into parcels, handed across to the surrounding surface cells, and carried up towards the top of the skin. Weeks later it shows on the cheek as a dark spot<sup><a href=\"#r1\">1</a></sup><sup><a href=\"#r4\">4</a></sup><sup><a href=\"#r5\">5</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Which is why a spot you notice this month started forming a while ago, and why anything working at the pigment cell is working on that same delay. The flipside is that stepping in early has more leverage than treating what has already surfaced."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 424\" role=\"img\" aria-label=\"Diagram of the melanogenesis pathway from light reaching the skin through to visible pigment, showing Fernblock and rosemary acting where the process is triggered, glutathione slowing the pigment enzyme inside the pigment cell, and nicotinamide acting where finished pigment is handed to surface cells.\"><text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 1 &nbsp;FOUR ACTIVES, FOUR POINTS ON ONE PATHWAY</text><g font-family=\"IBM Plex Mono, monospace\" font-size=\"9\" fill=\"currentColor\" opacity=\"0.5\" text-anchor=\"end\"><text x=\"138\" y=\"74\">OUTSIDE</text><text x=\"138\" y=\"132\">SURFACE CELLS</text><text x=\"138\" y=\"190\">PIGMENT CELL</text><text x=\"138\" y=\"306\">HAND-OFF</text><text x=\"138\" y=\"364\">SURFACE</text></g><g fill=\"var(--surface-2)\" stroke=\"var(--rule-strong)\"><rect x=\"150\" y=\"50\" width=\"270\" height=\"40\" rx=\"2\"/><rect x=\"150\" y=\"108\" width=\"270\" height=\"40\" rx=\"2\"/><rect x=\"150\" y=\"166\" width=\"270\" height=\"40\" rx=\"2\"/><rect x=\"150\" y=\"224\" width=\"270\" height=\"40\" rx=\"2\"/><rect x=\"150\" y=\"282\" width=\"270\" height=\"40\" rx=\"2\"/></g><rect x=\"150\" y=\"340\" width=\"270\" height=\"40\" rx=\"2\" fill=\"var(--accent-soft)\" stroke=\"var(--accent)\"/><g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12\" fill=\"currentColor\" text-anchor=\"middle\"><text x=\"285\" y=\"75\">Light and heat reach the skin</text><text x=\"285\" y=\"133\">Surface cells send messengers</text><text x=\"285\" y=\"191\">The pigment enzyme switches on</text><text x=\"285\" y=\"249\">Melanin is built, step by step</text><text x=\"285\" y=\"307\">Finished pigment passes upward</text></g><text x=\"285\" y=\"365\" font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"var(--accent)\" text-anchor=\"middle\">Pigment visible as a dark spot</text><g fill=\"currentColor\" opacity=\"0.4\"><path d=\"M279 94 L291 94 L285 104 Z\"/><path d=\"M279 152 L291 152 L285 162 Z\"/><path d=\"M279 210 L291 210 L285 220 Z\"/><path d=\"M279 268 L291 268 L285 278 Z\"/><path d=\"M279 326 L291 326 L285 336 Z\"/></g><g stroke=\"var(--accent)\" stroke-width=\"1.4\" opacity=\"0.7\"><line x1=\"452\" y1=\"128\" x2=\"420\" y2=\"128\"/><line x1=\"452\" y1=\"186\" x2=\"420\" y2=\"186\"/><line x1=\"452\" y1=\"302\" x2=\"420\" y2=\"302\"/></g><g fill=\"var(--accent-soft)\" stroke=\"var(--accent)\"><rect x=\"452\" y=\"111\" width=\"244\" height=\"34\" rx=\"2\"/><rect x=\"452\" y=\"169\" width=\"244\" height=\"34\" rx=\"2\"/><rect x=\"452\" y=\"285\" width=\"244\" height=\"34\" rx=\"2\"/></g><g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"11.5\" font-weight=\"600\" fill=\"var(--accent)\"><text x=\"466\" y=\"127\">Fernblock + rosemary extract</text><text x=\"466\" y=\"185\">Glutathione</text><text x=\"466\" y=\"301\">Nicotinamide</text></g><g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"10\" fill=\"var(--accent)\" opacity=\"0.8\"><text x=\"466\" y=\"140\">damp the stimulus that starts it</text><text x=\"466\" y=\"198\">slows the pigment enzyme</text><text x=\"466\" y=\"314\">blocks the hand-off</text></g><text x=\"24\" y=\"408\" font-family=\"IBM Plex Mono, monospace\" font-size=\"9\" fill=\"currentColor\" opacity=\"0.5\">MECHANISM AS DESCRIBED IN THE PRODUCT MATERIALS. NOT A MEASURE OF EFFECT SIZE.</text></svg>",
+          "html": "<b>Figure 1</b> &nbsp;How pigment travels from the cell that makes it to the surface you see, and where each of the four actives sits along the way<sup><a href=\"#r1\">1</a></sup><sup><a href=\"#r4\">4</a></sup>. A diagram of how the actives work, not a measure of how much they do."
+        },
+        {
+          "type": "h2",
+          "html": "Where each active steps in"
+        },
+        {
+          "type": "p",
+          "html": "Luminance places an active at four points along that chain rather than stacking four versions of the same idea. Fernblock and rosemary extract work at the top, on the oxidative stress and signalling that set the process going. Glutathione works inside the pigment cell, slowing tyrosinase by binding up the copper the enzyme needs to function<sup><a href=\"#r4\">4</a></sup>. Nicotinamide works at the hand-off, where finished pigment parcels move into the surface cells<sup><a href=\"#r6\">6</a></sup>."
+        },
+        {
+          "type": "table",
+          "html": "<table>\n        <thead>\n          <tr><th>Active</th><th>What it is</th><th>What it does</th><th>Per day</th></tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Fernblock</td>\n            <td>A standardised extract of a Central American fern, <em>Polypodium leucotomos</em>, often shortened to PLE</td>\n            <td>Antioxidant cover against the light and pollution that trigger pigment in the first place</td>\n            <td class=\"n\">480 mg</td>\n          </tr>\n          <tr>\n            <td>L-glutathione</td>\n            <td>An antioxidant the body already makes, taken here in its reduced form</td>\n            <td>Slows tyrosinase, the enzyme that starts pigment production</td>\n            <td class=\"n\">250 mg</td>\n          </tr>\n          <tr>\n            <td>Rosemary extract</td>\n            <td>Plant polyphenols, chiefly rosmarinic and carnosic acid</td>\n            <td>Antioxidant support alongside Fernblock at the trigger stage</td>\n            <td class=\"n\">40 mg</td>\n          </tr>\n          <tr>\n            <td>Nicotinamide</td>\n            <td>A form of vitamin B3, also written as niacinamide</td>\n            <td>Works at the hand-off of pigment to surface cells, and supports the skin's moisture barrier</td>\n            <td class=\"n\">16 mg</td>\n          </tr>\n        </tbody>\n      </table>"
+        },
+        {
+          "type": "p",
+          "html": "Nicotinamide earns its place twice over. Beyond the pigment hand-off, it raises the skin's own production of ceramides and the other fats that make up the barrier holding moisture in<sup><a href=\"#r7\">7</a></sup>, which is why the formulation helps with dehydrated skin as well as uneven tone."
+        },
+        {
+          "type": "h2",
+          "html": "The dose, printed"
+        },
+        {
+          "type": "p",
+          "html": "Every capsule carries 240mg of Fernblock, together with 125mg of L-glutathione, 20mg of rosemary extract and 8mg of nicotinamide<sup><a href=\"#r1\">1</a></sup>. We recommend two capsules a day, one in the morning and one at night, which brings the daily Fernblock to 480mg."
+        },
+        {
+          "type": "p",
+          "html": "Splitting the dose is deliberate rather than a convenience. Visible light and pollution exposure run right through the day instead of peaking at noon, so the cover is spread to match<sup><a href=\"#r1\">1</a></sup>. A pack holds sixty capsules, thirty days of two, sized to carry a full renewal cycle from start to finish<sup><a href=\"#r1\">1</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "The fern has a useful backstory. <em>Polypodium leucotomos</em> started out as a water plant and adapted to life on land, evolving its own defences against ultraviolet radiation on the way<sup><a href=\"#r1\">1</a></sup>. Central American communities were using it for inflamed skin long before anyone standardised the extract<sup><a href=\"#r1\">1</a></sup>. Cantabria Labs has researched it for over twenty-five years, and it now carries more than fifty published laboratory and clinical studies<sup><a href=\"#r1\">1</a></sup>."
+        },
+        {
+          "type": "h2",
+          "html": "Why it is a capsule and not a cream"
+        },
+        {
+          "type": "p",
+          "html": "A cream works downwards from the surface, and the pigment cell sits below the level a topical comfortably reaches. Taking the actives orally sends them the other way. They arrive through the bloodstream and meet the pigment cell from underneath, which is the reason Luminance is a capsule<sup><a href=\"#r1\">1</a></sup>. It is designed to sit beneath a topical routine rather than compete with one."
+        },
+        {
+          "type": "p",
+          "html": "Skin renews itself roughly every twenty-eight days, so the complexion you are looking at in a month is made of cells that were forming while you were taking it. Anything working this far upstream shows up on that clock rather than overnight."
+        },
+        {
+          "type": "h2",
+          "html": "What the research shows"
+        },
+        {
+          "type": "p",
+          "html": "The study worth knowing about is the one on visible light. Twenty-two people with medium to deep skin tones were exposed to a measured dose of visible light, about what 160 minutes outdoors delivers, then exposed again after twenty-eight days taking 480mg of the extract daily<sup><a href=\"#r8\">8</a></sup>. On instrument readings, two kinds of darkening came down significantly: the pigment that sets in soon after exposure, and the tan that deepens over the following days<sup><a href=\"#r8\">8</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "The dose there is 480mg a day, exactly what two Luminance capsules deliver, and the period is twenty-eight days, exactly one pack."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 248\" role=\"img\" aria-label=\"Comparison showing the visible light study used 480 milligrams of Fernblock daily for 28 days, and two Heliocare Luminance capsules deliver 480 milligrams daily across a 28 day pack.\"><text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 2 &nbsp;THE STUDY DOSE AND THE PACK DOSE</text><g font-family=\"IBM Plex Mono, monospace\" font-size=\"9.5\" fill=\"currentColor\" opacity=\"0.6\" text-anchor=\"middle\"><text x=\"195\" y=\"62\">IN THE STUDY</text><text x=\"525\" y=\"62\">IN TWO CAPSULES A DAY</text></g><line x1=\"360\" y1=\"76\" x2=\"360\" y2=\"212\" stroke=\"currentColor\" opacity=\"0.2\"/><g font-family=\"Newsreader, Georgia, serif\" font-size=\"38\" font-weight=\"500\" fill=\"var(--accent)\" text-anchor=\"middle\"><text x=\"195\" y=\"128\">480 mg</text><text x=\"525\" y=\"128\">480 mg</text><text x=\"195\" y=\"196\">28 days</text><text x=\"525\" y=\"196\">28 days</text></g><g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"11\" fill=\"currentColor\" opacity=\"0.62\" text-anchor=\"middle\"><text x=\"195\" y=\"147\">Fernblock daily</text><text x=\"525\" y=\"147\">Fernblock daily</text><text x=\"195\" y=\"215\">of supplementation</text><text x=\"525\" y=\"215\">in one pack</text></g><g fill=\"var(--accent)\" opacity=\"0.85\"><circle cx=\"360\" cy=\"112\" r=\"3\"/><circle cx=\"360\" cy=\"122\" r=\"3\"/><circle cx=\"360\" cy=\"180\" r=\"3\"/><circle cx=\"360\" cy=\"190\" r=\"3\"/></g></svg>",
+          "html": "<b>Figure 2</b> &nbsp;The visible-light study<sup><a href=\"#r8\">8</a></sup> set against the Luminance regimen<sup><a href=\"#r1\">1</a></sup>. Dose and duration match on both counts."
+        },
+        {
+          "type": "p",
+          "html": "Fernblock has been examined against ultraviolet too. In a separate study, twenty-two people took 240mg before ultraviolet B exposure and showed measurably less redness afterwards, alongside a higher threshold before their skin burned at all<sup><a href=\"#r9\">9</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Glutathione has its own supporting studies for skin tone close to ours. Thirty Filipino women of medium to deep skin tone taking a daily glutathione preparation showed a significant fall in melanin readings from where they started, with the change appearing in as little as two weeks<sup><a href=\"#r10\">10</a></sup>. A separate randomised, double-blind trial against placebo in fifty-seven women found significantly fewer wrinkles after twelve weeks<sup><a href=\"#r11\">11</a></sup>, and an earlier placebo-controlled study at a higher daily dose reported lower melanin readings than placebo across the same period<sup><a href=\"#r12\">12</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Rosemary adds antioxidant support that has been tested orally in people, in its case as part of a polyphenol combination<sup><a href=\"#r13\">13</a></sup>."
+        },
+        {
+          "type": "h2",
+          "html": "What changes beyond pigment"
+        },
+        {
+          "type": "p",
+          "html": "Cantabria Labs ran the finished formulation over twelve weeks in thirty-eight Asian women aged twenty-five to sixty, all with uneven complexion and visible signs of ageing, and all getting one to three hours of sun and pollution exposure daily<sup><a href=\"#r14\">14</a></sup>. Alongside the pigment work, the instruments recorded 10% more firmness and 17% more elasticity on a suction probe that measures how readily skin springs back, 19% less wrinkled area on a surface scanner, and 15% less water loss through the skin<sup><a href=\"#r14\">14</a></sup>. These figures come from the company's own study, held as data on file."
+        },
+        {
+          "type": "p",
+          "html": "That last metric is the one people usually skip past, and it deserves a second look. <strong>Water loss</strong> through the skin is a barrier reading: the lower it runs, the better the skin is holding on to its own moisture. A barrier under less strain is also a barrier that reacts less, which is part of why dullness, uneven tone and dehydration so often turn up together."
+        },
+        {
+          "type": "h2",
+          "html": "Why people start using Heliocare Luminance"
+        },
+        {
+          "type": "p",
+          "html": "Most people come to it for uneven tone and dark spots built up over years of ordinary exposure. Others start alongside a clinic treatment aimed at pigment, where Luminance works as an adjuvant to whatever protocol the doctor has set rather than in place of it<sup><a href=\"#r1\">1</a></sup>. A third group starts ahead of an energy-based procedure, where the thinking is to have antioxidant cover established before the skin is challenged<sup><a href=\"#r1\">1</a></sup>."
+        },
+        {
+          "type": "h2",
+          "html": "How to take it"
+        },
+        {
+          "type": "list",
+          "html": "<li><strong>Two capsules daily, split morning and night.</strong> That is 480mg of Fernblock a day, the dose used in the visible-light study<sup><a href=\"#r8\">8</a></sup>, spread across the hours you are exposed<sup><a href=\"#r1\">1</a></sup>.</li>\n      <li><strong>Give it a full cycle.</strong> A pack is built around the twenty-eight day renewal cycle<sup><a href=\"#r1\">1</a></sup>, and the trials measuring pigment and firmness ran to twelve weeks<sup><a href=\"#r11\">11</a></sup><sup><a href=\"#r14\">14</a></sup>.</li>\n      <li><strong>Keep your sunscreen on.</strong> Every arm of the Luminance study wore sunscreen too<sup><a href=\"#r14\">14</a></sup>, and Luminance does not replace your regular Heliocare Oral<sup><a href=\"#r1\">1</a></sup>.</li>\n      <li><strong>Suitable from sixteen.</strong> Halal certified, vegan friendly, and with no reported drug interactions, so it sits alongside other supplements. Pregnant and breastfeeding women should speak to a doctor first<sup><a href=\"#r1\">1</a></sup>.</li>\n      <li><strong>Ask the clinic that knows your skin.</strong> Luminance is dispensed through dermatology, aesthetic and plastic surgery practices rather than retail<sup><a href=\"#r1\">1</a></sup>, so the conversation comes with someone qualified to have it.</li>"
+        },
+        {
+          "type": "p",
+          "html": "Pigment is slow to arrive and slow to leave, and anything working at the pigment cell is working on that timescale rather than an overnight one. What Luminance offers is four actives placed along the pathway, at doses printed on the box, one of them matched exactly to the study behind it. It was tested alongside sunscreen, not instead of it."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How long before I see a difference?",
+          "a": "One pack covers the twenty-eight day renewal cycle, which is the shortest sensible window to judge it on<sup><a href=\"#r1\">1</a></sup>. The visible-light study ran to twenty-eight days<sup><a href=\"#r8\">8</a></sup>, and the trials measuring pigment, firmness and wrinkles ran to twelve weeks<sup><a href=\"#r11\">11</a></sup><sup><a href=\"#r14\">14</a></sup>. Pigment is slow to build and slow to fade, so give it a full cycle before deciding."
+        },
+        {
+          "q": "Can I take it with Heliocare Oral?",
+          "a": "Yes, and you should. Luminance is formulated for pigment and visible signs of ageing rather than as a sun-protection capsule, so it sits alongside your regular Heliocare Oral rather than replacing it<sup><a href=\"#r1\">1</a></sup>."
+        },
+        {
+          "q": "Why two capsules instead of one?",
+          "a": "Two capsules deliver 480mg of Fernblock daily, which is the dose used in the visible-light study<sup><a href=\"#r8\">8</a></sup>. Splitting them morning and night spreads the cover across the day, because visible light and pollution exposure do not stop after lunch<sup><a href=\"#r1\">1</a></sup>."
+        },
+        {
+          "q": "Is it suitable for Asian skin?",
+          "a": "The research is closer to Asian skin than most. The visible-light study was run in medium to deep skin tones<sup><a href=\"#r8\">8</a></sup>, the glutathione work in Filipino women of similar tone<sup><a href=\"#r10\">10</a></sup>, and the Luminance formulation itself was studied in thirty-eight Asian women<sup><a href=\"#r14\">14</a></sup>."
+        },
+        {
+          "q": "Can I take it with other supplements?",
+          "a": "Luminance has no reported drug interactions, and it is halal certified, vegan friendly and suitable from age sixteen<sup><a href=\"#r1\">1</a></sup>. Pregnant and breastfeeding women should check with a doctor before starting any oral supplement<sup><a href=\"#r1\">1</a></sup>."
+        }
+      ],
+      "refs": [
+        {
+          "n": 1,
+          "html": "Cantabria Labs. (2025). <em>Heliocare Luminance: A new advance in pigment control and anti-aging</em> [Product training material]. Cantabria Labs and Neo Asia."
+        },
+        {
+          "n": 2,
+          "html": "Rigel, D. S., Taylor, S. C., Lim, H. W., Alexis, A. F., Armstrong, A. W., Chiesa Fuxench, Z. C., Draelos, Z. D., &amp; Hamzavi, I. H. (2022). Photoprotection for skin of all color: Consensus and clinical guidance from an expert panel. <em>Journal of the American Academy of Dermatology, 86</em>(3), S1&ndash;S8. <a href=\"https://doi.org/10.1016/j.jaad.2021.12.019\">https://doi.org/10.1016/j.jaad.2021.12.019</a>"
+        },
+        {
+          "n": 3,
+          "html": "Cheong, K. W., Yew, Y. W., &amp; Seow, W. J. (2019). Sun exposure and sun safety habits among adults in Singapore: A cross-sectional study. <em>Annals, Academy of Medicine, Singapore, 48</em>(12), 412&ndash;428. <a href=\"https://doi.org/10.47102/annals-acadmedsg.V48N12p412\">https://doi.org/10.47102/annals-acadmedsg.V48N12p412</a>"
+        },
+        {
+          "n": 4,
+          "html": "Gillbro, J. M., &amp; Olsson, M. J. (2011). The melanogenesis and mechanisms of skin-lightening agents: Existing and new approaches. <em>International Journal of Cosmetic Science, 33</em>(3), 210&ndash;221. <a href=\"https://doi.org/10.1111/j.1468-2494.2010.00616.x\">https://doi.org/10.1111/j.1468-2494.2010.00616.x</a>"
+        },
+        {
+          "n": 5,
+          "html": "Cantabria Labs. (n.d.). <em>Heliocare Luminance: Inhibition of the melanogenesis pathway</em> [Product diagram]. Cantabria Labs."
+        },
+        {
+          "n": 6,
+          "html": "Hakozaki, T., Minwalla, L., Zhuang, J., Chhoa, M., Matsubara, A., Miyamoto, K., Greatens, A., Hillebrand, G. G., Bissett, D. L., &amp; Boissy, R. E. (2002). The effect of niacinamide on reducing cutaneous pigmentation and suppression of melanosome transfer. <em>British Journal of Dermatology, 147</em>(1), 20&ndash;31. <a href=\"https://doi.org/10.1046/j.1365-2133.2002.04834.x\">https://doi.org/10.1046/j.1365-2133.2002.04834.x</a>"
+        },
+        {
+          "n": 7,
+          "html": "Tanno, O., Ota, Y., Kitamura, N., Katsube, T., &amp; Inoue, S. (2000). Nicotinamide increases biosynthesis of ceramides as well as other stratum corneum lipids to improve the epidermal permeability barrier. <em>British Journal of Dermatology, 143</em>(3), 524&ndash;531. <a href=\"https://doi.org/10.1046/j.1365-2133.2000.03705.x\">https://doi.org/10.1046/j.1365-2133.2000.03705.x</a>"
+        },
+        {
+          "n": 8,
+          "html": "Mohammad, T. F., Kohli, I., Nicholson, C. L., Treyger, G., Chaowattanapanit, S., Nahhas, A. F., Braunberger, T. L., Lim, H. W., &amp; Hamzavi, I. H. (2019). Oral <em>Polypodium leucotomos</em> extract and its impact on visible light-induced pigmentation in human subjects. <em>Journal of Drugs in Dermatology, 18</em>(12), 1198&ndash;1203."
+        },
+        {
+          "n": 9,
+          "html": "Kohli, I., Shafi, R., Isedeh, P., Griffith, J. L., Al-Jamal, M. S., Silpa-Archa, N., Jackson, B., Athar, M., Kollias, N., Elmets, C. A., Lim, H. W., &amp; Hamzavi, I. H. (2017). The impact of oral <em>Polypodium leucotomos</em> extract on ultraviolet B response: A human clinical study. <em>Journal of the American Academy of Dermatology, 77</em>(1), 33&ndash;41.e1. <a href=\"https://doi.org/10.1016/j.jaad.2017.01.047\">https://doi.org/10.1016/j.jaad.2017.01.047</a>"
+        },
+        {
+          "n": 10,
+          "html": "Handog, E. B., Datuin, M. S., &amp; Singzon, I. A. (2016). An open-label, single-arm trial of the safety and efficacy of a novel preparation of glutathione as a skin-lightening agent in Filipino women. <em>International Journal of Dermatology, 55</em>(2), 153&ndash;157. <a href=\"https://doi.org/10.1111/ijd.12999\">https://doi.org/10.1111/ijd.12999</a>"
+        },
+        {
+          "n": 11,
+          "html": "Weschawalit, S., Thongthip, S., Phutrakool, P., &amp; Asawanonda, P. (2017). Glutathione and its antiaging and antimelanogenic effects. <em>Clinical, Cosmetic and Investigational Dermatology, 10</em>, 147&ndash;153. <a href=\"https://doi.org/10.2147/CCID.S128339\">https://doi.org/10.2147/CCID.S128339</a>"
+        },
+        {
+          "n": 12,
+          "html": "Arjinpathana, N., &amp; Asawanonda, P. (2012). Glutathione as an oral whitening agent: A randomized, double-blind, placebo-controlled study. <em>Journal of Dermatological Treatment, 23</em>(2), 97&ndash;102. <a href=\"https://doi.org/10.3109/09546631003801619\">https://doi.org/10.3109/09546631003801619</a>"
+        },
+        {
+          "n": 13,
+          "html": "Nobile, V., Michelotti, A., Cestone, E., Caturla, N., Castillo, J., Benavente-Garc&iacute;a, O., P&eacute;rez-S&aacute;nchez, A., &amp; Micol, V. (2016). Skin photoprotective and antiageing effects of a combination of rosemary (<em>Rosmarinus officinalis</em>) and grapefruit (<em>Citrus paradisi</em>) polyphenols. <em>Food &amp; Nutrition Research, 60</em>, 31871. <a href=\"https://doi.org/10.3402/fnr.v60.31871\">https://doi.org/10.3402/fnr.v60.31871</a>"
+        },
+        {
+          "n": 14,
+          "html": "Cantabria Labs. (n.d.). <em>Efficacy of Heliocare Luminance in reducing pigmentation and signs of skin aging in Asian women</em> [Data on file]. Cantabria Labs."
+        }
+      ]
     }
   ]
 }
