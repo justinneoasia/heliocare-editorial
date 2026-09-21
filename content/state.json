@@ -934,6 +934,280 @@
           "html": "Cantabria Labs. (n.d.). <em>Efficacy of Heliocare Luminance in reducing pigmentation and signs of skin aging in Asian women</em> [Data on file]. Cantabria Labs."
         }
       ]
+    },
+    {
+      "id": "sunscreen-and-ageing",
+      "eyebrow": "Photoprotection &middot; Skin ageing",
+      "title": "Does sunscreen really stop your skin ageing? Here is what the trials found",
+      "standfirst": "You have been told that sunscreen is the best anti-ageing product you can buy. It is the most repeated claim in skincare and the least often sourced. We work in photoprotection, so here is what sits underneath it. Three controlled trials have put sunscreen up against ageing skin, and the largest found 24% less ageing in the group who used it every morning for four and a half years<sup><a href=\"#r1\">1</a></sup>. The answer is yes, with conditions, and the conditions are the useful part.",
+      "sub": "Three controlled trials, one long Japanese study, and what the SPF and PA numbers on the bottle are and are not telling you.",
+      "byline": "[Author name, credentials]",
+      "reviewer": "[Consultant dermatologist]",
+      "date": "21 September 2026",
+      "blocks": [
+        {
+          "type": "h2",
+          "html": "Two kinds of ageing, and only one you can do anything about"
+        },
+        {
+          "type": "p",
+          "html": "Your skin is ageing two ways at once. One is the clock, which happens to everyone everywhere, including on skin that has never seen daylight. The other is photoageing, damage that builds up only where ultraviolet lands. Put the back of your hand next to your upper arm. Same person, same age, often a decade apart."
+        },
+        {
+          "type": "p",
+          "html": "Separating them is harder than it sounds. The most-quoted attempt graded 22 facial signs in 298 women aged 30 to 78, split into 157 who had spent their lives in the sun and 141 who had avoided it<sup><a href=\"#r2\">2</a></sup>. Dark spots were heavier in the sun group at every age, sagging tracked the clock, wrinkles sat in both camps. The conclusion, that the sun is &ldquo;responsible for 80% of visible facial aging signs&rdquo;<sup><a href=\"#r2\">2</a></sup>, is the line that ends up on packaging."
+        },
+        {
+          "type": "p",
+          "html": "We would not lean on it. Two self-selected groups, photographed once, in fair European skin, graded by researchers at a cosmetics company. A direction, not a measurement."
+        },
+        {
+          "type": "p",
+          "html": "Which sign matters more than the headline. The sun's clearest signature is pigment, and in Asian skin pigment rather than wrinkling is how photoageing mostly shows up, because ultraviolet A provokes a stronger pigment response in deeper tones than ultraviolet B does<sup><a href=\"#r3\">3</a></sup>. If your worry is uneven tone rather than lines, you are worrying about the right thing."
+        },
+        {
+          "type": "h2",
+          "html": "So has anyone put it to the test?"
+        },
+        {
+          "type": "p",
+          "html": "Three times under controlled conditions, plus a long study in Japan. None is perfect and together they point the same way. The biggest ran from 1992 to 1996 in Nambour, a Queensland town at latitude 26 degrees south. Of 1,621 adults enrolled, 903 were under 55 and went into the ageing analysis<sup><a href=\"#r1\">1</a></sup>. Half put an SPF 15 on their head, neck, arms and hands every morning. The other half carried on as they were<sup><a href=\"#r1\">1</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Nobody graded a face. Staff took silicone moulds of the back of the left hand at the start and four and a half years later, and assessors who did not know the groups scored them from 1 to 6<sup><a href=\"#r1\">1</a></sup>. Grade 1 is undamaged skin, a fine criss-cross of evenly spaced lines. By grade 6 it has flattened and the vertical lines have gone. The daily group did not move. The other did<sup><a href=\"#r1\">1</a></sup>."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 300\" role=\"img\" aria-label=\"Chart of the Nambour trial result. Over four and a half years the discretionary sunscreen group had 1.54 times the odds of moving up a microtopography grade, with a confidence interval from 1.28 to 1.86 that sits clear of no change. The daily sunscreen group had 1.18 times the odds, with a confidence interval from 0.99 to 1.39 that crosses no change. The relative odds between the two groups were 0.76, with a confidence interval from 0.59 to 0.98.\">\n    <text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 1 &nbsp;ODDS OF MOVING UP A GRADE, 1992 TO 1996</text>\n    <line x1=\"270\" y1=\"58\" x2=\"270\" y2=\"212\" stroke=\"currentColor\" stroke-opacity=\"0.32\" stroke-dasharray=\"3 3\"/>\n    <text x=\"270\" y=\"232\" font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" fill=\"currentColor\" opacity=\"0.5\" text-anchor=\"middle\">1.0 &nbsp;NO CHANGE</text>\n    <g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" fill=\"currentColor\">\n      <text x=\"24\" y=\"88\">Discretionary sunscreen</text>\n      <text x=\"24\" y=\"150\">Daily sunscreen</text>\n    </g>\n    <g stroke-width=\"2\" fill=\"none\">\n      <line x1=\"341.7\" y1=\"100\" x2=\"490.2\" y2=\"100\" stroke=\"var(--uv-vhigh)\"/>\n      <line x1=\"341.7\" y1=\"93\" x2=\"341.7\" y2=\"107\" stroke=\"var(--uv-vhigh)\"/>\n      <line x1=\"490.2\" y1=\"93\" x2=\"490.2\" y2=\"107\" stroke=\"var(--uv-vhigh)\"/>\n      <line x1=\"267.4\" y1=\"162\" x2=\"369.8\" y2=\"162\" stroke=\"var(--uv-low)\"/>\n      <line x1=\"267.4\" y1=\"155\" x2=\"267.4\" y2=\"169\" stroke=\"var(--uv-low)\"/>\n      <line x1=\"369.8\" y1=\"155\" x2=\"369.8\" y2=\"169\" stroke=\"var(--uv-low)\"/>\n    </g>\n    <circle cx=\"408.2\" cy=\"100\" r=\"5.5\" fill=\"var(--uv-vhigh)\"/>\n    <circle cx=\"316.1\" cy=\"162\" r=\"5.5\" fill=\"var(--uv-low)\"/>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" fill=\"currentColor\" opacity=\"0.72\">\n      <text x=\"506\" y=\"104\">1.54 (1.28 to 1.86)</text>\n      <text x=\"386\" y=\"166\">1.18 (0.99 to 1.39)</text>\n    </g>\n    <line x1=\"24\" y1=\"252\" x2=\"696\" y2=\"252\" stroke=\"currentColor\" stroke-opacity=\"0.18\"/>\n    <text x=\"24\" y=\"278\" font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" fill=\"currentColor\">Daily against discretionary, relative odds</text>\n    <text x=\"356\" y=\"278\" font-family=\"IBM Plex Mono, monospace\" font-size=\"12\" font-weight=\"500\" fill=\"var(--accent)\">0.76 (0.59 to 0.98)</text>\n    <text x=\"536\" y=\"278\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" fill=\"currentColor\" opacity=\"0.6\">24% LESS AGEING</text>\n  </svg>",
+          "html": "<b>Figure 1</b> &nbsp;How likely each group was to move up a damage grade between 1992 and 1996<sup><a href=\"#r1\">1</a></sup>. The discretionary group's range sits clear of 1.0, meaning they measurably aged. The daily group's crosses it, which is what &ldquo;no detectable increase&rdquo; means."
+        },
+        {
+          "type": "quote",
+          "html": "&ldquo;This has been one of those beauty tips you often hear quoted, but for the first time we can back it with science: protecting yourself from skin cancer by using sunscreen regularly has the added bonus of keeping you looking younger. And the study has shown that up to middle age, it's not too late to make a difference.&rdquo;",
+          "cite": "Professor Ad&egrave;le Green, who led the Nambour trial, Queensland Institute of Medical Research<sup><a href=\"#r4\">4</a></sup>"
+        },
+        {
+          "type": "p",
+          "html": "Two more sit either side of it. An older one in Lubbock, Texas gave 46 adults either a sunscreen or an identical cream with no filters, without telling them which. Their skin samples showed significantly less solar elastosis, the tangled tissue behind the leathery look of sun damage<sup><a href=\"#r5\">5</a></sup>. The summary calls that difference significant without giving its size, so read it as direction confirmed, scale unknown."
+        },
+        {
+          "type": "p",
+          "html": "The newest is the only one that included skin that is not pale. In Brazil, 290 women spent a year either on their usual routine or on an SPF 60 carrying a PPD of 24.1, meaning strong ultraviolet A cover. Fifteen dermatologists graded standardised photographs, and wrinkles and dark spots grew 30 to 50% less in the protected group<sup><a href=\"#r6\">6</a></sup>. L'Or&eacute;al funded it and four of the seven authors work there, testing their own sunscreen<sup><a href=\"#r6\">6</a></sup>. Brazilian skin types IV to VI are not Asian skin, so it narrows the gap rather than closing it."
+        },
+        {
+          "type": "table",
+          "html": "<table>\n  <thead><tr><th>Study</th><th>Who, and for how long</th><th>What it found</th></tr></thead>\n  <tbody>\n    <tr><td>Nambour, Australia, 2013<sup><a href=\"#r1\">1</a></sup></td><td>903 adults under 55, four and a half years, SPF 15 every morning</td><td>No detectable ageing in the daily group, 24% less than discretionary use</td></tr>\n    <tr><td>Lubbock, Texas, 1995<sup><a href=\"#r5\">5</a></sup></td><td>46 adults, two years, against an identical cream with no filters</td><td>Less solar elastosis in the skin samples, surface layers unchanged</td></tr>\n    <tr><td>Brazil, 2023<sup><a href=\"#r6\">6</a></sup></td><td>290 women aged 30 to 65, skin types II to VI, one year, SPF 60 twice a day</td><td>Wrinkles and dark spots grew 30 to 50% less</td></tr>\n    <tr><td>Wakayama, Japan, 2016<sup><a href=\"#r7\">7</a></sup></td><td>14 people aged 62 to 91, 18 months, no comparison group</td><td>Spot counts tracked how much sunscreen each person used. Wrinkles did not</td></tr>\n  </tbody>\n</table>"
+        },
+        {
+          "type": "h2",
+          "html": "The part of the trial that failed"
+        },
+        {
+          "type": "p",
+          "html": "Nambour tested a second thing at the same time: 30&nbsp;mg of beta-carotene a day, the antioxidant supplement then sold for exactly this purpose. Same people, same years, same blinded assessors. It did nothing<sup><a href=\"#r1\">1</a></sup>. That is the most reassuring finding in the article, because a study that gets a result everywhere it looks is one to be suspicious of."
+        },
+        {
+          "type": "quote",
+          "html": "&ldquo;Our findings suggest that beta-carotene supplements do not influence skin ageing, although we can't rule out the possibility of a small difference for better or worse. There would need to be further study into beta-carotene to rule out benefit or harm.&rdquo;",
+          "cite": "Professor Ad&egrave;le Green, who led the Nambour trial, Queensland Institute of Medical Research<sup><a href=\"#r4\">4</a></sup>"
+        },
+        {
+          "type": "p",
+          "html": "Nambour looked in two places, found something in one and nothing in the other, and published both."
+        },
+        {
+          "type": "h2",
+          "html": "What SPF measures, and what it leaves out"
+        },
+        {
+          "type": "p",
+          "html": "Most people are never told this. The SPF number describes one waveband only. It is tested against ultraviolet B, roughly 280 to 315&nbsp;nm, the part of sunlight that burns<sup><a href=\"#r8\">8</a></sup>. It says nothing about ultraviolet A, roughly 315 to 400&nbsp;nm, and nothing at all about visible light."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 300\" role=\"img\" aria-label=\"Diagram of the solar spectrum split into ultraviolet B from 280 to 315 nanometres, ultraviolet A from 315 to 400, and visible light from 400 to 700. The SPF number on a label covers only the ultraviolet B band. A PA rating or UVA protection factor covers the ultraviolet A band. Nothing on a standard sunscreen label describes visible light, and only a tinted sunscreen filters it.\">\n    <text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 2 &nbsp;WHAT EACH NUMBER ON THE LABEL COVERS</text>\n    <g>\n      <rect x=\"240\" y=\"56\" width=\"90\" height=\"34\" rx=\"2\" fill=\"var(--uv-high)\"/>\n      <rect x=\"330\" y=\"56\" width=\"150\" height=\"34\" rx=\"2\" fill=\"var(--uv-extreme)\"/>\n      <rect x=\"480\" y=\"56\" width=\"216\" height=\"34\" rx=\"2\" fill=\"var(--uv-mod)\"/>\n    </g>\n    <g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"11.5\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\">\n      <text x=\"285\" y=\"78\">UVB</text>\n      <text x=\"405\" y=\"78\">UVA</text>\n      <text x=\"588\" y=\"78\">Visible light</text>\n    </g>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" fill=\"currentColor\" opacity=\"0.6\" text-anchor=\"middle\">\n      <text x=\"285\" y=\"108\">280&ndash;315 nm</text>\n      <text x=\"405\" y=\"108\">315&ndash;400 nm</text>\n      <text x=\"588\" y=\"108\">400&ndash;700 nm</text>\n    </g>\n    <g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12\" fill=\"currentColor\" text-anchor=\"end\">\n      <text x=\"228\" y=\"142\">The SPF number</text>\n      <text x=\"228\" y=\"182\">PA rating, or UVA-PF</text>\n      <text x=\"228\" y=\"222\">Nothing on a normal label</text>\n      <text x=\"228\" y=\"262\">A tinted sunscreen</text>\n    </g>\n    <rect x=\"240\" y=\"128\" width=\"90\" height=\"20\" rx=\"2\" fill=\"var(--uv-high)\" opacity=\"0.8\"/>\n    <rect x=\"330\" y=\"168\" width=\"150\" height=\"20\" rx=\"2\" fill=\"var(--uv-extreme)\" opacity=\"0.8\"/>\n    <rect x=\"480\" y=\"208\" width=\"216\" height=\"20\" rx=\"2\" fill=\"none\" stroke=\"var(--uv-mod)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/>\n    <rect x=\"480\" y=\"248\" width=\"216\" height=\"20\" rx=\"2\" fill=\"var(--uv-mod)\" opacity=\"0.8\"/>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" fill=\"currentColor\" opacity=\"0.62\">\n      <text x=\"342\" y=\"142\">not covered by SPF</text>\n      <text x=\"492\" y=\"182\">not covered by a PA rating</text>\n    </g>\n  </svg>",
+          "html": "<b>Figure 2</b> &nbsp;Which part of sunlight each number on the label describes<sup><a href=\"#r8\">8</a></sup>. The bands are drawn for legibility, not to scale. Visible light is the gap: no standard rating covers it, and a tint is currently the way to filter it<sup><a href=\"#r9\">9</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "SPF is a ratio, so the arithmetic is fixed. An SPF 15 lets through a fifteenth of the burning ultraviolet, about 93% blocked. SPF 30 blocks about 97%, SPF 50 about 98%. The jump from 15 to 30 is worth having; the jump from 30 to 50 buys about one more point, which is why European labels stop at SPF 50+ however high the tested value goes<sup><a href=\"#r8\">8</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Ultraviolet A is rated separately, and the systems differ by market. European rules require the ultraviolet A protection factor to be at least a third of the labelled SPF, with the UVA-in-a-circle symbol also needing absorption at 370&nbsp;nm and above<sup><a href=\"#r8\">8</a></sup>. Across Asia you see a PA rating, graded by how much longer treated skin takes to darken: PA+ is a factor of 2 to 4, PA++ is 4 to 8, PA+++ is 8 to 16, PA++++ is 16 or more<sup><a href=\"#r8\">8</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "One tidy assumption is worth dropping: that ultraviolet B burns and ultraviolet A ages. The burn part is right, but ultraviolet B also drives the elastosis that photoaged skin is made of<sup><a href=\"#r8\">8</a></sup>. Both age you, so a high SPF with weak ultraviolet A cover is half a product, and so is the reverse."
+        },
+        {
+          "type": "h2",
+          "html": "The number that matters more than any of them"
+        },
+        {
+          "type": "p",
+          "html": "An SPF is certified at an application density of 2&nbsp;mg/cm&sup2;. In ordinary use people apply between 0.39 and 1.0, and 0.8 has been proposed as a realistic figure to correct by<sup><a href=\"#r10\">10</a></sup>. Protection falls a long way at those amounts, and not in a straight line."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 260\" role=\"img\" aria-label=\"Chart comparing the sunscreen application density used to certify SPF in the laboratory, 2 milligrams per square centimetre, against the range measured under ordinary conditions, 0.39 to 1.0 milligrams per square centimetre, and the 0.8 figure proposed as a realistic correction factor.\">\n    <text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 3 &nbsp;HOW MUCH SUNSCREEN, TESTED AGAINST APPLIED</text>\n    <g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" fill=\"currentColor\">\n      <text x=\"24\" y=\"76\">The SPF on the label is certified at</text>\n      <text x=\"24\" y=\"146\">Measured under ordinary conditions</text>\n      <text x=\"24\" y=\"206\">Proposed realistic correction factor</text>\n    </g>\n    <rect x=\"24\" y=\"88\" width=\"560\" height=\"26\" rx=\"2\" fill=\"var(--accent)\" opacity=\"0.85\"/>\n    <rect x=\"24\" y=\"158\" width=\"109\" height=\"26\" rx=\"2\" fill=\"var(--uv-vhigh)\" opacity=\"0.5\"/>\n    <rect x=\"133\" y=\"158\" width=\"171\" height=\"26\" rx=\"2\" fill=\"var(--uv-vhigh)\" opacity=\"0.85\"/>\n    <rect x=\"24\" y=\"218\" width=\"224\" height=\"20\" rx=\"2\" fill=\"var(--uv-mod)\" opacity=\"0.8\"/>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"11.5\" font-weight=\"500\" fill=\"currentColor\">\n      <text x=\"596\" y=\"106\">2.0 mg/cm&sup2;</text>\n      <text x=\"316\" y=\"176\">0.39 to 1.0</text>\n      <text x=\"260\" y=\"234\">0.8</text>\n    </g>\n  </svg>",
+          "html": "<b>Figure 3</b> &nbsp;The amount used to certify the label against the amount measured in ordinary use<sup><a href=\"#r10\">10</a></sup>. The SPF on the bottle describes the top bar. Most faces get something in the second."
+        },
+        {
+          "type": "p",
+          "html": "This is not only theory. A Japanese study followed 14 people for 18 months and weighed the returned bottles to see how much each had really used<sup><a href=\"#r7\">7</a></sup>. Consumption ranged nearly tenfold, 6.5 to 63.7&nbsp;g a month, and spot counts tracked it closely (correlation &minus;0.68), as did uneven skin tone (&minus;0.80)<sup><a href=\"#r7\">7</a></sup>. The authors put the break-even at about 21.6&nbsp;g a month: below that your spots increase, above it they hold<sup><a href=\"#r7\">7</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Wrinkles over the same 18 months did not move at all<sup><a href=\"#r7\">7</a></sup>. There was no comparison group, 14 people is very few, and three of the authors work for the company that supplied the product<sup><a href=\"#r7\">7</a></sup>. Take it as a measurement of the right variable rather than proof. The variable is how much goes on, not what the bottle says."
+        },
+        {
+          "type": "h2",
+          "html": "Why ultraviolet A and visible light matter here in particular"
+        },
+        {
+          "type": "p",
+          "html": "Ultraviolet A is about 95% of all the ultraviolet reaching the ground, and 20 to 30% of it travels down to the deep dermis, where your collagen and elastin live<sup><a href=\"#r3\">3</a></sup>. Ultraviolet B stops higher up: about 70% is absorbed by the dead surface layer and only 10% reaches the upper dermis<sup><a href=\"#r3\">3</a></sup>. The waveband that goes deepest is the one the SPF number ignores."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 300\" role=\"img\" aria-label=\"Cross section of skin showing that 70 per cent of incident ultraviolet B is absorbed by the stratum corneum, 20 per cent reaches the viable epidermis and 10 per cent the upper dermis, while 20 to 30 per cent of ultraviolet A reaches the deep dermis where collagen and elastin sit.\">\n    <text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 4 &nbsp;HOW FAR EACH WAVEBAND GETS</text>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10.5\" font-weight=\"500\">\n      <text x=\"120\" y=\"52\" text-anchor=\"middle\" fill=\"var(--uv-high)\">UVB</text>\n      <text x=\"385\" y=\"52\" text-anchor=\"middle\" fill=\"var(--uv-extreme)\">UVA</text>\n    </g>\n    <rect x=\"24\" y=\"72\" width=\"440\" height=\"36\" fill=\"var(--skin-1)\"/>\n    <rect x=\"24\" y=\"108\" width=\"440\" height=\"52\" fill=\"var(--skin-2)\" opacity=\"0.9\"/>\n    <rect x=\"24\" y=\"160\" width=\"440\" height=\"52\" fill=\"var(--skin-2)\"/>\n    <rect x=\"24\" y=\"212\" width=\"440\" height=\"58\" fill=\"var(--skin-3)\"/>\n    <g stroke=\"currentColor\" stroke-opacity=\"0.18\">\n      <line x1=\"24\" y1=\"108\" x2=\"464\" y2=\"108\"/>\n      <line x1=\"24\" y1=\"160\" x2=\"464\" y2=\"160\"/>\n      <line x1=\"24\" y1=\"212\" x2=\"464\" y2=\"212\"/>\n    </g>\n    <g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"11.5\" fill=\"currentColor\" opacity=\"0.9\">\n      <text x=\"200\" y=\"94\">Stratum corneum</text>\n      <text x=\"200\" y=\"138\">Viable epidermis</text>\n      <text x=\"200\" y=\"190\">Upper dermis</text>\n      <text x=\"36\" y=\"245\">Deep dermis, where collagen and elastin sit</text>\n    </g>\n    <g stroke=\"var(--uv-high)\" stroke-width=\"2.5\" fill=\"none\">\n      <line x1=\"90\" y1=\"60\" x2=\"90\" y2=\"95\"/>\n      <line x1=\"120\" y1=\"60\" x2=\"120\" y2=\"140\"/>\n      <line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"192\"/>\n    </g>\n    <g stroke=\"var(--uv-extreme)\" stroke-width=\"2.5\" fill=\"none\">\n      <line x1=\"370\" y1=\"60\" x2=\"370\" y2=\"248\"/>\n      <line x1=\"400\" y1=\"60\" x2=\"400\" y2=\"248\"/>\n    </g>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10.5\" fill=\"currentColor\" opacity=\"0.8\">\n      <text x=\"484\" y=\"94\">UVB &nbsp;70% STOPS HERE</text>\n      <text x=\"484\" y=\"138\">UVB &nbsp;20% REACHES HERE</text>\n      <text x=\"484\" y=\"190\">UVB &nbsp;10% REACHES HERE</text>\n      <text x=\"484\" y=\"245\">UVA &nbsp;20 TO 30% REACHES HERE</text>\n    </g>\n  </svg>",
+          "html": "<b>Figure 4</b> &nbsp;How far each waveband travels into skin, from the published review figures<sup><a href=\"#r3\">3</a></sup>. A schematic of proportions, not a scale drawing."
+        },
+        {
+          "type": "p",
+          "html": "Ordinary window glass cuts off at around 320&nbsp;nm, so it stops most ultraviolet B and lets ultraviolet A straight through<sup><a href=\"#r3\">3</a></sup>. There is a well-known photograph of what that does over a career: a 69-year-old American man who drove a delivery truck for 28 years, thickened and deeply furrowed down the left side of his face, ordinary on the right<sup><a href=\"#r11\">11</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Visible light is the newest part of this and the least settled. Roughly half the solar energy reaching the ground is visible, and in skin types IV to VI it darkens pigment more strongly and for longer than long-wave ultraviolet A does. Conventional filters do not block it; a tinted sunscreen does<sup><a href=\"#r9\">9</a></sup>. That is an expert panel rather than a trial, in a supplement paid for by a sunscreen manufacturer<sup><a href=\"#r9\">9</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "A 2024 review put the Asian case directly. Eight dermatologists from six Asian countries, led by a consultant at Singapore's National Skin Centre, reported that the complaints filling their clinics are age spots, post-inflammatory marks, melasma and Hori's naevus<sup><a href=\"#r12\">12</a></sup>. A survey of 3,000 people in China, Indonesia and Japan found 57% to 79% worried about pigmentation and 66% to 79% about photoageing, ahead of the 44% to 59% worried about skin cancer<sup><a href=\"#r12\">12</a></sup>."
+        },
+        {
+          "type": "note",
+          "html": "<h4>Who paid for that one</h4>\n      <p>That review was funded by La Roche-Posay, two of its ten authors work for L'Or&eacute;al or La Roche-Posay, and its lead author declares honoraria from La Roche-Posay, Galderma and Cantabria Labs<sup><a href=\"#r12\">12</a></sup>. Cantabria Labs makes Heliocare, so we are citing a paper whose lead author has been paid by our own supplier. You should know that before weighing it.</p>"
+        },
+        {
+          "type": "p",
+          "html": "The gap between the worry and the habit is wide. The share combining several protective measures was 22% in China, 13% in Indonesia and 3% in Japan<sup><a href=\"#r12\">12</a></sup>. Singapore's ultraviolet index commonly reaches Very High and Extreme between 11am and 3pm on a clear day<sup><a href=\"#r13\">13</a></sup>, yet a survey of 2,328 adults here found 23.9% regularly using SPF 30 or above, 14.2% wearing a hat and 18.8% carrying an umbrella<sup><a href=\"#r14\">14</a></sup>."
+        },
+        {
+          "type": "note",
+          "html": "<h4>What we are not claiming</h4>\n      <p>Heliocare 360 D Plus is built around a standardised <em>Polypodium leucotomos</em> extract with niacinamide, vitamin D and vitamin E, and the manufacturer's published claims concern ultraviolet damage, oxidative neutralisation and photoageing<sup><a href=\"#r15\">15</a></sup>. We are not claiming any product of ours reproduces what these trials found. Every one of them tested a sunscreen put on skin in the morning, and oral photoprotection is studied alongside that, never instead of it.</p>"
+        },
+        {
+          "type": "h2",
+          "html": "What to do on a Tuesday morning"
+        },
+        {
+          "type": "list",
+          "html": "<li><strong>Every day beats every strong day.</strong> Nambour got its 24% from an SPF 15 used every morning, and the researchers said the amount applied matters more than the factor<sup><a href=\"#r1\">1</a></sup>.</li>\n      <li><strong>Use more than feels right.</strong> Half a teaspoon for face and neck gets you near the tested 2&nbsp;mg/cm&sup2;, against the 0.39 to 1.0 people manage in practice<sup><a href=\"#r10\">10</a></sup>.</li>\n      <li><strong>Check the UVA rating, not just the SPF.</strong> Look for PA+++ or PA++++, or the UVA-in-a-circle symbol<sup><a href=\"#r8\">8</a></sup>.</li>\n      <li><strong>If dark spots are the worry, a tint earns its place.</strong> Visible light darkens pigment in deeper skin tones and clear filters do not stop it<sup><a href=\"#r9\">9</a></sup>.</li>\n      <li><strong>Do not forget your hands.</strong> That is where the Nambour effect was measured<sup><a href=\"#r1\">1</a></sup>, and the spot almost everyone skips.</li>\n      <li><strong>Give it years, not weeks.</strong> It took four and a half years of silicone moulds and a blinded grader to separate the two groups<sup><a href=\"#r1\">1</a></sup>.</li>"
+        },
+        {
+          "type": "p",
+          "html": "It is an unglamorous thing to sell. The strongest evidence in this category sits behind its dullest version: an ordinary broad-spectrum sunscreen, enough of it, on the same places, every morning, for years. The consistency does the work."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How strong is the evidence that sunscreen prevents skin ageing?",
+          "a": "Stronger than most skincare claims and weaker than the advertising suggests. Three controlled trials have tested it. The largest followed 903 adults under 55 for four and a half years and found 24% less skin ageing in the daily sunscreen group, measured from silicone moulds of the back of the hand by assessors who did not know the group allocation<sup><a href=\"#r1\">1</a></sup>. A two-year trial of 46 adults found less solar elastosis in skin samples from the sunscreen group<sup><a href=\"#r5\">5</a></sup>, and a one-year trial of 290 women in Brazil found wrinkles and dark spots grew 30 to 50% less in the protected group<sup><a href=\"#r6\">6</a></sup>."
+        },
+        {
+          "q": "Is SPF 50 better than SPF 30 for ageing?",
+          "a": "Barely, and not in the way people assume. SPF 30 blocks about 97% of burning ultraviolet and SPF 50 about 98%, which is why European labels stop at SPF 50+<sup><a href=\"#r8\">8</a></sup>. The bigger gap is between what is on the bottle and what goes on your face: labels are certified at 2&nbsp;mg/cm&sup2; and people apply between 0.39 and 1.0<sup><a href=\"#r10\">10</a></sup>. The trial that produced the 24% figure used SPF 15<sup><a href=\"#r1\">1</a></sup>. What is worth upgrading is ultraviolet A cover, not the SPF number."
+        },
+        {
+          "q": "What does PA++++ mean on a sunscreen?",
+          "a": "It is the Japanese rating for ultraviolet A protection, now used across Asia, and it is graded by how much longer treated skin takes to darken. PA+ means a factor of 2 to 4, PA++ is 4 to 8, PA+++ is 8 to 16 and PA++++ is 16 or more<sup><a href=\"#r8\">8</a></sup>. European products carry the same information differently: the ultraviolet A protection factor must be at least a third of the labelled SPF, and the UVA-in-a-circle symbol also requires the product to absorb at 370&nbsp;nm and above<sup><a href=\"#r8\">8</a></sup>."
+        },
+        {
+          "q": "Do I need sunscreen indoors or in the car?",
+          "a": "Window glass cuts off at around 320&nbsp;nm, so it stops most ultraviolet B and lets ultraviolet A through<sup><a href=\"#r3\">3</a></sup>, and ultraviolet A is what reaches the deep dermis<sup><a href=\"#r3\">3</a></sup>. The documented case is a delivery driver of 28 years whose window-side cheek aged visibly more than the other<sup><a href=\"#r11\">11</a></sup>. That is one man over a working life, not a study, and it describes an occupational exposure rather than a commute. Whether an ordinary indoor day warrants sunscreen has not been measured."
+        },
+        {
+          "q": "Can sunscreen reverse damage I already have?",
+          "a": "Possibly a little. A 52-week study of 32 women using a broad-spectrum SPF 30 daily reported 40 to 52% improvement in texture, clarity and pigmentation from baseline<sup><a href=\"#r16\">16</a></sup>, but it had no comparison group, one unblinded grader, and half its authors were employed by the manufacturer<sup><a href=\"#r16\">16</a></sup>. Participants also received a moisturiser and were told to limit sun exposure<sup><a href=\"#r16\">16</a></sup>, so the sunscreen's own contribution cannot be separated out. In a better-controlled 18-month study, spot counts improved in proportion to how much sunscreen people used, while wrinkles did not change at all<sup><a href=\"#r7\">7</a></sup>."
+        },
+        {
+          "q": "Will daily sunscreen affect my vitamin D?",
+          "a": "A systematic review of four experimental studies, three field trials and 69 observational studies concluded that there is little evidence sunscreen lowers vitamin D levels when used in real life, and that vitamin D concerns should not override skin cancer prevention advice<sup><a href=\"#r17\">17</a></sup>. The review is also open about its gap: the controlled field trials used sunscreens of around SPF 16, and nobody has tested the high-SPF products now widely recommended<sup><a href=\"#r17\">17</a></sup>."
+        }
+      ],
+      "refs": [
+        {
+          "n": 1,
+          "html": "Hughes, M. C. B., Williams, G. M., Baker, P., &amp; Green, A. C. (2013). Sunscreen and prevention of skin aging: A randomized trial. <em>Annals of Internal Medicine, 158</em>(11), 781&ndash;790. <a href=\"https://doi.org/10.7326/0003-4819-158-11-201306040-00002\">https://doi.org/10.7326/0003-4819-158-11-201306040-00002</a>"
+        },
+        {
+          "n": 2,
+          "html": "Flament, F., Bazin, R., Laquieze, S., Rubert, V., Simonpietri, E., &amp; Piot, B. (2013). Effect of the sun on visible clinical signs of aging in Caucasian skin. <em>Clinical, Cosmetic and Investigational Dermatology, 6</em>, 221&ndash;232. <a href=\"https://doi.org/10.2147/CCID.S44686\">https://doi.org/10.2147/CCID.S44686</a>"
+        },
+        {
+          "n": 3,
+          "html": "Battie, C., &amp; Verschoore, M. (2012). Cutaneous solar ultraviolet exposure and clinical aspects of photodamage. <em>Indian Journal of Dermatology, Venereology and Leprology, 78</em>(7), 9&ndash;14. <a href=\"https://doi.org/10.4103/0378-6323.97350\">https://doi.org/10.4103/0378-6323.97350</a>"
+        },
+        {
+          "n": 4,
+          "html": "QIMR Berghofer Medical Research Institute. (2013, June 4). <em>World-first study proves daily sunscreen prevents skin ageing</em>. <a href=\"https://www.qimrb.edu.au/whats-on/news/world-first-study-proves-daily-sunscreen-prevents-skin-ageing\">https://www.qimrb.edu.au/whats-on/news/world-first-study-proves-daily-sunscreen-prevents-skin-ageing</a>"
+        },
+        {
+          "n": 5,
+          "html": "Boyd, A. S., Naylor, M., Cameron, G. S., Pearse, A. D., Gaskell, S. A., &amp; Neldner, K. H. (1995). The effects of chronic sunscreen use on the histologic changes of dermatoheliosis. <em>Journal of the American Academy of Dermatology, 33</em>(6), 941&ndash;946. <a href=\"https://doi.org/10.1016/0190-9622(95)90284-8\">https://doi.org/10.1016/0190-9622(95)90284-8</a>"
+        },
+        {
+          "n": 6,
+          "html": "Flament, F., Mercurio, D. G., Catalan, E., Bouhadanna, E., Delaunay, C., Miranda, D. F., &amp; Passeron, T. (2023). Impact on facial skin aging signs of a 1-year standardized photoprotection over a classical skin care routine in skin phototypes II&ndash;VI individuals: A prospective randomized trial. <em>Journal of the European Academy of Dermatology and Venereology, 37</em>(10), 2090&ndash;2097. <a href=\"https://doi.org/10.1111/jdv.19230\">https://doi.org/10.1111/jdv.19230</a> Funded by the L'Or&eacute;al Research and Innovation Department; four of the seven authors are employed by L'Or&eacute;al."
+        },
+        {
+          "n": 7,
+          "html": "Mizuno, M., Kunimoto, K., Naru, E., Kameyama, K., Furukawa, F., &amp; Yamamoto, Y. (2016). The effects of continuous application of sunscreen on photoaged skin in Japanese elderly people: The relationship with the usage. <em>Clinical, Cosmetic and Investigational Dermatology, 9</em>, 95&ndash;105. <a href=\"https://doi.org/10.2147/CCID.S104392\">https://doi.org/10.2147/CCID.S104392</a> Three of the six authors are employees of KOS&Eacute; Corporation, which supplied the sunscreen."
+        },
+        {
+          "n": 8,
+          "html": "Gudum, Z. (2026, August 20). <em>Sunscreen SPF &amp; UVA in the EU, UK and China: A practical guide</em>. CIRS Group. <a href=\"https://www.cirs-group.com/en/cosmetics/sunscreen-spf-and-uva-in-the-eu-uk-and-china-a-practical-guide\">https://www.cirs-group.com/en/cosmetics/sunscreen-spf-and-uva-in-the-eu-uk-and-china-a-practical-guide</a> Summarising European Commission Recommendation 2006/647/EC, ISO 24444, ISO 24442 and ISO 24443."
+        },
+        {
+          "n": 9,
+          "html": "Rigel, D. S., Taylor, S. C., Lim, H. W., Alexis, A. F., Armstrong, A. W., Chiesa Fuxench, Z. C., Draelos, Z. D., &amp; Hamzavi, I. H. (2022). Photoprotection for skin of all color: Consensus and clinical guidance from an expert panel. <em>Journal of the American Academy of Dermatology, 86</em>(3, Suppl.), S1&ndash;S8. <a href=\"https://doi.org/10.1016/j.jaad.2021.12.019\">https://doi.org/10.1016/j.jaad.2021.12.019</a> Published as part of a supplement sponsored by Beiersdorf Inc.; the authors received honoraria."
+        },
+        {
+          "n": 10,
+          "html": "Petersen, B., &amp; Wulf, H. C. (2014). Application of sunscreen: Theory and reality. <em>Photodermatology, Photoimmunology &amp; Photomedicine, 30</em>(2&ndash;3), 96&ndash;101. <a href=\"https://doi.org/10.1111/phpp.12099\">https://doi.org/10.1111/phpp.12099</a>"
+        },
+        {
+          "n": 11,
+          "html": "Gordon, J. R. S., &amp; Brieva, J. C. (2012). Unilateral dermatoheliosis. <em>New England Journal of Medicine, 366</em>(16), e25. <a href=\"https://doi.org/10.1056/NEJMicm1104059\">https://doi.org/10.1056/NEJMicm1104059</a>"
+        },
+        {
+          "n": 12,
+          "html": "Goh, C. L., Kang, H. Y., Morita, A., Zhang, C., Wu, Y., Prakoeswa, C. R. S., Sau, N. H., Kerob, D., Flament, F., &amp; Wei, L. (2024). Awareness of sun exposure risks and photoprotection for preventing pigmentary disorders in Asian populations: Survey results from three Asian countries and expert panel recommendations. <em>Photodermatology, Photoimmunology &amp; Photomedicine, 40</em>(1), e12932. <a href=\"https://doi.org/10.1111/phpp.12932\">https://doi.org/10.1111/phpp.12932</a> Survey subanalysis funded by La Roche-Posay; two authors are employed by L'Or&eacute;al or La Roche-Posay, and the lead author declares honoraria from La Roche-Posay, Galderma and Cantabria Labs."
+        },
+        {
+          "n": 13,
+          "html": "National Environment Agency. (n.d.). <em>UV radiation and UV index</em>. Retrieved 21 September 2026, from <a href=\"https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index/uv-radiation-uv-index\">https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index/uv-radiation-uv-index</a>"
+        },
+        {
+          "n": 14,
+          "html": "Cheong, K. W., Yew, Y. W., &amp; Seow, W. J. (2019). Sun exposure and sun safety habits among adults in Singapore: A cross-sectional study. <em>Annals, Academy of Medicine, Singapore, 48</em>(12), 412&ndash;428. <a href=\"https://www.annals.edu.sg/pdf/48VolNo12Dec2019/V48N12p412.pdf\">https://www.annals.edu.sg/pdf/48VolNo12Dec2019/V48N12p412.pdf</a>"
+        },
+        {
+          "n": 15,
+          "html": "Cantabria Labs. (n.d.). <em>HELIOCARE 360 D Plus capsules</em>. Retrieved 21 September 2026, from <a href=\"https://www.cantabrialabs.com/products/heliocare-360-d-plus-capsules/\">https://www.cantabrialabs.com/products/heliocare-360-d-plus-capsules/</a>"
+        },
+        {
+          "n": 16,
+          "html": "Randhawa, M., Wang, S., Leyden, J. J., Cula, G. O., Pagnoni, A., &amp; Southall, M. D. (2016). Daily use of a facial broad spectrum sunscreen over one-year significantly improves clinical evaluation of photoaging. <em>Dermatologic Surgery, 42</em>(12), 1354&ndash;1361. <a href=\"https://doi.org/10.1097/DSS.0000000000000879\">https://doi.org/10.1097/DSS.0000000000000879</a> Funded by Johnson &amp; Johnson Consumer Companies, the manufacturer of the formulation tested; three of the six authors were employees of that company and the remaining three were compensated by it."
+        },
+        {
+          "n": 17,
+          "html": "Neale, R. E., Khan, S. R., Lucas, R. M., Waterhouse, M., Whiteman, D. C., &amp; Olsen, C. M. (2019). The effect of sunscreen on vitamin D: A review. <em>British Journal of Dermatology, 181</em>(5), 907&ndash;915. <a href=\"https://doi.org/10.1111/bjd.17980\">https://doi.org/10.1111/bjd.17980</a>"
+        }
+      ]
     }
   ]
 }
