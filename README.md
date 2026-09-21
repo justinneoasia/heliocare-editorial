@@ -56,6 +56,19 @@ python3 build.py
 
 Then commit and push. Vercel redeploys on every push to `main`.
 
+### Publishing in one step
+
+`publish.ps1` does the whole sequence: rebuilds `public/`, regenerates `editor.html`,
+shows what changed, commits and pushes.
+
+```powershell
+.\publish.ps1
+.\publish.ps1 "Fix the SPF figure caption"
+```
+
+It refuses to commit if either build script fails, so a broken `state.json` cannot
+reach the deploy.
+
 `editor.html` embeds a snapshot of `state.json`, so rerun `make_editor.py` after changing
 the content, or use the editor's own **Load a state.json** button to pull a fresh file in.
 It is gitignored and sits outside `public/`, so it is never deployed.
