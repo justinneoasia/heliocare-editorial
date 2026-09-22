@@ -7,7 +7,10 @@ state.json. Drop that back over content/state.json and run build.py.
 
 editor.html embeds a snapshot of state.json, so regenerate it after any change to
 content/state.json (or use the Load button inside the editor to pull a fresh file in).
-It lives outside public/, so Vercel never deploys it.
+Writes two copies: editor.html in the repo root (gitignored, for local editing) and
+public/editor.html, which Vercel serves at /editor so the articles can be edited from
+a browser anywhere. Both embed the full state.json, including the internal `slot`
+blocks that build.py strips from the public article pages.
 """
 import json, pathlib, re
 
@@ -325,4 +328,12 @@ out = (HTML.replace('__SITE_CSS__', SITE_CSS)
            .replace('__JS__', JS))
 (ROOT / 'editor.html').write_text(out, encoding='utf-8')
 print('wrote editor.html (%.0f KB) from content/state.json' % (len(out) / 1024))
+
+# Also write a deployed copy. Vercel serves public/, so this puts the editor at
+# /editor on the draft mirror. Note that it embeds the whole of state.json,
+# including the internal `slot` blocks that build.py strips from the public pages.
+PUBLIC = ROOT / 'public'
+PUBLIC.mkdir(parents=True, exist_ok=True)
+(PUBLIC / 'editor.html').write_text(out, encoding='utf-8')
+print('wrote public/editor.html (deployed copy, served at /editor)')
 print('open it in a browser, edit, press Save, then replace content/state.json and run build.py')
