@@ -1,6 +1,6 @@
 ---
 name: push-article
-description: Merge a new or updated Heliocare article dropped in incoming/ (exported from Claude Cowork) into content/state.json, rebuild the site, commit, and push to GitHub so Vercel redeploys. Trigger phrases: "push new article", "push the new article", "push article".
+description: Merge a new or updated Heliocare article dropped in incoming/ (exported from Claude Cowork) into content/state.json, rebuild the site and the browser editor, then stop for the user to review and edit before anything is committed. Trigger phrases: "push new article", "push the new article", "push article".
 ---
 
 Run this from the repo root: `C:\Users\JustinFok\Downloads\projects\heliocare-editorial`.
@@ -48,6 +48,11 @@ article untouched.
 
 ## 4. Build
 
+Neither Python nor git is on PATH on this machine. Use the full paths:
+
+- Python: `C:\Users\JustinFok\AppData\Local\Programs\Python\Python313\python.exe`
+- git: prepend `C:\Users\JustinFok\AppData\Local\GitHubDesktop\app-3.6.5\resources\app\git\cmd` to `$env:PATH`
+
 From the repo root, run in order, stopping immediately if either fails and reporting the
 error without touching git:
 
@@ -56,28 +61,42 @@ python build.py
 python make_editor.py
 ```
 
+**Both, every time.** `make_editor.py` regenerates `editor.html`, which is what makes the
+new article editable in the browser. Run it last, after the final build, so the editor
+reflects the finished `state.json`. The review gate in step 6 depends on it.
+
 ## 5. Archive the processed file
 
 Move the file from step 1 into `incoming/.processed/` (create that folder if it doesn't
 exist) so it isn't picked up again next time.
 
-## 6. Commit and push
+## 6. Stop for review
 
-Show `git status --short` so the change is visible, then:
+**Do not run `git add`, `git commit` or `git push` yet.** The user reviews and edits every
+article before anything reaches git. Leave the working tree dirty and hand the draft over:
+
+- report what was added or updated, the word count and reference count, and that it built
+  cleanly
+- name anything that looked borderline against the brief's Stage 4 compliance gate
+- point them at `editor.html` in the repo root to open in a browser
+- remind them that after editing they press **Save state.json**, replace
+  `content/state.json` with the downloaded file, and ask for a rebuild
+
+Then stop and wait. Do not commit to "save the work", and do not carry a previous
+article's approval over to this one.
+
+## 7. Commit, only after the user approves
+
+When the user says the draft is good, or hands back an edited `state.json`:
+
+1. If `content/state.json` was replaced, re-run `python build.py` then `python make_editor.py`.
+2. Show `git status --short`, then:
 
 ```
 git add -A
 git commit -m "Add article: <title>"        # or "Update article: <title>" if it replaced one
-git push
 ```
 
-If `git push` fails with an authentication/interactive-prompt error (this happens in
-sandboxed terminals that disable interactive git prompts), don't try to work around it.
-Tell the user the commit is made locally but needs to be pushed from GitHub Desktop (or a
-normal, non-sandboxed terminal) since this environment can't complete the GitHub sign-in
-prompt.
-
-## 7. Report
-
-Confirm what was added/updated, that it built cleanly, and either that it's pushed (Vercel
-will redeploy from `main` automatically) or that a manual push is still needed.
+Don't attempt `git push`. This machine has no non-interactive GitHub credentials, so the
+push fails with `could not read Username for 'https://github.com'`. Tell the user the
+commit is local and needs pushing from GitHub Desktop, which triggers the Vercel redeploy.

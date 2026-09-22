@@ -1208,6 +1208,247 @@
           "html": "Neale, R. E., Khan, S. R., Lucas, R. M., Waterhouse, M., Whiteman, D. C., &amp; Olsen, C. M. (2019). The effect of sunscreen on vitamin D: A review. <em>British Journal of Dermatology, 181</em>(5), 907&ndash;915. <a href=\"https://doi.org/10.1111/bjd.17980\">https://doi.org/10.1111/bjd.17980</a>"
         }
       ]
+    },
+    {
+      "id": "melasma-visible-light",
+      "eyebrow": "Photoprotection &middot; Pigmentation",
+      "title": "SPF 50 every day, and the dark patches still came back",
+      "standfirst": "The usual explanation is that you are not using enough sunscreen. Often that is true. But there is a second explanation that the bottle cannot tell you about, because the numbers printed on it were never asked the question. Visible light, the part of daylight you can see, drives pigmentation in skin types III and IV in a way it does not in paler skin. Here is what the trials that tested it actually measured, including the one run in Singapore and the one that found nothing.",
+      "sub": "What the SPF number was built to measure, what iron oxides do that clear sunscreens cannot, and how two 12-week trials of oral Fernblock disagreed with each other.",
+      "byline": "[Author name, credentials]",
+      "reviewer": "[Consultant dermatologist]",
+      "date": "22 September 2026",
+      "blocks": [
+        {
+          "type": "slot",
+          "html": "<h4>Run note, internal</h4><p><b>Reader:</b> a woman in Singapore, 35 to 55, Fitzpatrick III or IV, who already owns and uses a high-SPF sunscreen daily and is frustrated that facial pigmentation has not shifted or keeps returning. <b>Funnel stage:</b> managing pigmentation, actively comparing sunscreens, unaware that visible light is a separate variable from UV. <b>Balance:</b> education and problem approximately 55%, evidence approximately 27%, product navigation approximately 18%. <b>Photography brief:</b> flat overhead of a tinted compact open beside an untinted fluid, daylight from a window, no model shot, no before and after.</p>"
+        },
+        {
+          "type": "h2",
+          "html": "The complaint that does not fit the advice"
+        },
+        {
+          "type": "p",
+          "html": "A retrospective review of 205 people with melasma at a tertiary dermatology centre in Singapore found a mean age of 42.3 years, women outnumbering men 21 to 1, and 90% with Fitzpatrick skin type III or IV<sup><a href=\"#r1\">1</a></sup>. Sunscreen was the backbone of treatment in that cohort. Just over half of the patients, 53%, saw any reduction in pigmentation at all, and 28% saw a reduction of more than a quarter<sup><a href=\"#r1\">1</a></sup>. Those are not the numbers of a problem that a bottle solves."
+        },
+        {
+          "type": "p",
+          "html": "So the first thing to say is that if you have been diligent with sunscreen and the patches are still there, you are the majority, not the exception. The usual next sentence is that you are applying too little, or not reapplying. That is often correct and it is worth fixing. But there is a second thing going on, and it is the one almost nobody mentions at the counter: the SPF number on your bottle describes a response to ultraviolet, and roughly half of the daylight reaching your face is not ultraviolet at all."
+        },
+        {
+          "type": "p",
+          "html": "The evidence that this second factor matters is real, and it is also thinner than the confidence with which it now gets repeated. Two of the trials below ran for eight and twelve weeks on a few dozen people each, and the two trials of the oral supplement disagreed about whether it did anything measurable. We work in photoprotection and sell some of the products this points toward, so the useful thing we can do is show you the actual numbers rather than the conclusions drawn from them."
+        },
+        {
+          "type": "h2",
+          "html": "What visible light does to skin that makes pigment readily"
+        },
+        {
+          "type": "p",
+          "html": "In 2010 a group at Henry Ford Hospital irradiated the lower backs of 20 volunteers with skin types IV to VI using two sources: long-wavelength UVA, meaning 340 to 400 nanometres, and visible light, meaning 400 to 700 nanometres<sup><a href=\"#r2\">2</a></sup>. Pigmentation was assessed at seven time points across two weeks by visual examination, cross-polarised photography and diffuse reflectance spectroscopy, then checked against confocal microscopy and skin biopsies<sup><a href=\"#r2\">2</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "Both sources produced pigmentation in skin types IV to VI. The pigmentation produced by visible light was darker and lasted longer than the pigmentation produced by UVA, and the histology showed the pigment itself was different in quality and quantity, not merely in amount<sup><a href=\"#r2\">2</a></sup>. The same protocol was run on skin type II, and produced no pigmentation at all<sup><a href=\"#r2\">2</a></sup>."
+        },
+        {
+          "type": "p",
+          "html": "That last sentence is the one that matters here. This is a mechanism that shows up in melanin-rich skin and is effectively invisible in pale skin, which is also where most sunscreen testing and most sunscreen marketing originated. In the Singapore cohort above, 90% of patients were type III or IV<sup><a href=\"#r1\">1</a></sup>. The paper reports direction and histology rather than a single headline effect size, so it establishes that visible light does something distinct, not how much of any given person's pigmentation it accounts for."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 300\" role=\"img\" aria-label=\"Diagram of the daylight spectrum from 280 to 700 nanometres. UVB runs from 280 to 315 nanometres and UVA from 315 to 400 nanometres; together these are the range described by the SPF number and the UVA rating on a sunscreen label. Visible light runs from 400 to 700 nanometres and carries no rating on any sunscreen label. The short-wavelength end of visible light, roughly 400 to 500 nanometres, is the part targeted by the iron oxide trials.\">\n    <text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 1 &nbsp;WHAT THE LABEL RATES, AND WHAT IT DOES NOT</text>\n    <g stroke=\"currentColor\" stroke-opacity=\"0.5\" stroke-width=\"1.5\" fill=\"none\">\n      <path d=\"M60 92 L60 80 L237 80 L237 92\"/>\n      <path d=\"M237 92 L237 80 L680 80 L680 92\"/>\n    </g>\n    <text x=\"148\" y=\"70\" font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" letter-spacing=\"0.8\" fill=\"currentColor\" opacity=\"0.62\" text-anchor=\"middle\">RATED: SPF AND UVA</text>\n    <text x=\"458\" y=\"70\" font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" letter-spacing=\"0.8\" fill=\"currentColor\" opacity=\"0.62\" text-anchor=\"middle\">NO RATING EXISTS</text>\n    <rect x=\"60\" y=\"100\" width=\"52\" height=\"44\" fill=\"var(--uv-extreme)\" opacity=\"0.85\"/>\n    <rect x=\"112\" y=\"100\" width=\"125\" height=\"44\" fill=\"var(--uv-vhigh)\" opacity=\"0.85\"/>\n    <rect x=\"237\" y=\"100\" width=\"148\" height=\"44\" fill=\"var(--uv-mod)\" opacity=\"0.85\"/>\n    <rect x=\"385\" y=\"100\" width=\"295\" height=\"44\" fill=\"var(--uv-low)\" opacity=\"0.6\"/>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" fill=\"currentColor\" opacity=\"0.75\" text-anchor=\"middle\">\n      <text x=\"86\" y=\"128\">UVB</text>\n      <text x=\"174\" y=\"128\">UVA</text>\n      <text x=\"311\" y=\"128\">400&ndash;500</text>\n      <text x=\"532\" y=\"128\">500&ndash;700</text>\n    </g>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" fill=\"currentColor\" opacity=\"0.45\" text-anchor=\"middle\">\n      <text x=\"60\" y=\"162\">280</text>\n      <text x=\"237\" y=\"162\">400</text>\n      <text x=\"680\" y=\"162\">700 NM</text>\n    </g>\n    <line x1=\"237\" y1=\"178\" x2=\"385\" y2=\"178\" stroke=\"currentColor\" stroke-opacity=\"0.5\" stroke-width=\"2\"/>\n    <text x=\"237\" y=\"200\" font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" fill=\"currentColor\">The short-wavelength end is the part the iron oxide trials set out to block.</text>\n    <text x=\"237\" y=\"220\" font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" fill=\"currentColor\" opacity=\"0.65\">Clear sunscreens are largely transparent across this whole band.</text>\n  </svg>",
+          "html": "<b>Figure 1</b> &nbsp;SPF describes a redness endpoint driven mainly by UVB, and the UVA rating covers the rest of the ultraviolet band. Neither describes 400 to 700 nanometres. Visible light is the range that produced the darker, longer-lasting pigmentation in skin types IV to VI<sup><a href=\"#r2\">2</a></sup>."
+        },
+        {
+          "type": "h2",
+          "html": "Why no number on the box covers it"
+        },
+        {
+          "type": "p",
+          "html": "SPF is a ratio. It compares the smallest ultraviolet dose that produces visible redness on protected skin, known as the minimal erythema dose, against the same dose on unprotected skin. Redness is overwhelmingly a UVB response, so SPF is overwhelmingly a UVB measure. The UVA rating that sits beside it extends the description to 320 to 400 nanometres. Between them they account for the two brackets on the left of Figure 1, and they stop at 400."
+        },
+        {
+          "type": "p",
+          "html": "There is no third number, because the labelling scheme has no category for one. And the reason clear sunscreens do little here is not a formulation failure but a physical fact: a filter that absorbed visible light would not be clear. You would see it. What blocks visible light is pigment, which is why the trials that tested this used tinted products containing iron oxides rather than a new generation of transparent filters."
+        },
+        {
+          "type": "p",
+          "html": "Singapore's own conditions sharpen this. The National Environment Agency measures the ultraviolet index at Changi and reports it every 15 minutes from 7am to 7pm, on a scale running from 0 to 11 and above, with levels highest between 11am and 3pm<sup><a href=\"#r3\">3</a></sup>. That guidance is about ultraviolet, and it is good guidance. It is also why the timing advice everyone knows does not fully transfer: a covered walkway, a car window or an office by the glass cuts your ultraviolet exposure substantially while leaving the visible half of daylight largely intact."
+        },
+        {
+          "type": "h2",
+          "html": "Two trials that added a pigment and measured what changed"
+        },
+        {
+          "type": "p",
+          "html": "If visible light contributes and no consumer number describes it, the experiment that follows is obvious. Take two sunscreens with equivalent ultraviolet protection, put a visible-light-absorbing pigment in one of them, and see whether the pigmentation responds differently. Two groups have run close to that experiment."
+        },
+        {
+          "type": "p",
+          "html": "The larger and better documented is a double-blind randomised trial in Mexico, published in 2014<sup><a href=\"#r4\">4</a></sup>. Sixty-eight people with melasma were randomised to a sunscreen containing iron oxide as a visible-light-absorbing pigment or to a broad-spectrum sunscreen without it, both at SPF 50 or above, for eight weeks under intense solar conditions. Everyone in both arms also used 4% hydroquinone, a prescription depigmenting agent. Sixty-one completed. Outcomes were the Melasma Area and Severity Index, a clinician's visual score which the authors themselves describe as subjective, alongside colorimetry and histological measurement of melanin<sup><a href=\"#r4\">4</a></sup>."
+        },
+        {
+          "type": "quote",
+          "html": "Intervention: SPF 50+ sunscreen with iron oxide. Comparator: SPF 50+ sunscreen without it. Both arms on 4% hydroquinone. Difference at 8 weeks: the iron oxide arm improved 15% more on MASI, 28% more on colorimetry and 4% more on histological melanin. Population: 68 randomised, 61 completed.",
+          "cite": "Castanedo-Cazares et al., <em>Photodermatology, Photoimmunology &amp; Photomedicine</em>, 2014<sup><a href=\"#r4\">4</a></sup>"
+        },
+        {
+          "type": "p",
+          "html": "Read those three numbers in the order they are least flattering. The 4% figure is the histology, the closest thing in the study to an objective count of pigment, and it is the one that barely moved. The 28% is colorimetry, an instrument reading of colour. The 15% is the clinician's visual score. A tidy result would have all three moving together. These do not, and the honest summary is that adding the pigment produced a consistent direction of benefit whose size depends heavily on which instrument you trust."
+        },
+        {
+          "type": "p",
+          "html": "The second trial, from a group in Nice, randomised patients to a sunscreen combining ultraviolet protection with protection against short wavelengths of visible light and followed them for relapse<sup><a href=\"#r5\">5</a></sup>. We are citing it for its existence and direction only. It was published as a correspondence item in the <em>Journal of the American Academy of Dermatology</em> with no abstract in the public record, and we could not retrieve its participant numbers or relapse rates from the primary source. Treating it as a second confirmation of a specific effect size would be exactly the kind of borrowing this article is trying to avoid."
+        },
+        {
+          "type": "note",
+          "html": "<h4>What these two trials did not test</h4>\n      <p>Neither trial tested a Heliocare product. Both tested iron oxide as an ingredient class, in one case against an otherwise matched sunscreen. The finding, such as it is, belongs to the pigment rather than to any brand that uses it, and it was produced in people who were simultaneously using a prescription depigmenting cream. Nothing here shows what a tinted sunscreen does on its own.</p>"
+        },
+        {
+          "type": "h2",
+          "html": "The oral question, and the trial that ran at the National Skin Centre"
+        },
+        {
+          "type": "p",
+          "html": "Fernblock is the trade name Cantabria Labs gives to its standardised water-based extract of the fern <em>Polypodium leucotomos</em>, and it is the ingredient the oral Heliocare range is built on. It is an antioxidant swallowed as a capsule. It does not absorb ultraviolet on the surface of the skin the way a sunscreen filter does, and the studies below all gave it to people who were already using sunscreen. It is tested as something taken alongside sun protection, never as a replacement for it."
+        },
+        {
+          "type": "p",
+          "html": "The trial closest to home recruited 40 adults with melasma from the National Skin Centre in Singapore, published in 2018<sup><a href=\"#r6\">6</a></sup>. Thirty-three completed, all of them women, mean age 50.9 with a standard deviation of 5.1, predominantly Chinese with two Malay participants, Fitzpatrick types III and IV, and a mean duration of melasma of 8.4 years<sup><a href=\"#r6\">6</a></sup>. Every participant was already on topical 4% hydroquinone and an SPF 50+ sunscreen. They were randomised to oral extract capsules twice daily or identical placebo for 12 weeks, and scored on the modified Melasma Area and Severity Index."
+        },
+        {
+          "type": "quote",
+          "html": "Intervention: oral <em>Polypodium leucotomos</em> extract, on top of 4% hydroquinone and SPF 50+. Comparator: placebo, on the same background treatment. Reduction in mMASI at 12 weeks: 54.9% against 44.4%. Baselines: 6.8 and 6.0. Time: 12 weeks. Population: 40 randomised, 33 completed, at one centre in Singapore.",
+          "cite": "Goh et al., <em>Journal of Clinical and Aesthetic Dermatology</em>, 2018. Sponsored by Industrial Farmac&eacute;utica Cantabria; two authors are company employees<sup><a href=\"#r6\">6</a></sup>"
+        },
+        {
+          "type": "p",
+          "html": "Both groups improved against their own baselines at four, eight and twelve weeks by a statistically significant margin, and the gap between the extract group and placebo reached statistical significance at eight and twelve weeks<sup><a href=\"#r6\">6</a></sup>. The funding matters and we will state it plainly rather than footnote it: the study was sponsored by Industrial Farmac&eacute;utica Cantabria, two of the authors are Cantabria employees, and Cantabria makes Heliocare<sup><a href=\"#r6\">6</a></sup>. That does not invalidate the result. It does mean this is not independent replication."
+        },
+        {
+          "type": "p",
+          "html": "There is also an arithmetic point worth making, because 54.9% against 44.4% sounds larger than what happened. Those are reductions from unequal starting points. The extract group started at 6.8 and the placebo group at 6.0, so a 54.9% reduction lands at roughly 3.07 and a 44.4% reduction lands at roughly 3.34. The two groups finished about a quarter of a point apart on a scale where they began 0.8 apart. Both arms were also taking hydroquinone throughout, which is doing a large share of the work in both columns."
+        },
+        {
+          "type": "figure",
+          "svg": "<svg viewBox=\"0 0 720 300\" role=\"img\" aria-label=\"Chart of the 2018 Singapore trial. The Fernblock arm began at a modified MASI score of 6.8 and fell by 54.9% to approximately 3.07. The placebo arm began at 6.0 and fell by 44.4% to approximately 3.34. Both arms finished roughly a quarter of a point apart, having started 0.8 points apart.\">\n    <text x=\"24\" y=\"28\" font-family=\"IBM Plex Mono, monospace\" font-size=\"11\" letter-spacing=\"1.4\" fill=\"currentColor\" opacity=\"0.55\">FIGURE 2 &nbsp;MODIFIED MASI, BASELINE TO WEEK 12</text>\n    <g font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" fill=\"currentColor\">\n      <text x=\"24\" y=\"116\">Extract arm</text>\n      <text x=\"24\" y=\"186\">Placebo arm</text>\n    </g>\n    <line x1=\"200\" y1=\"60\" x2=\"200\" y2=\"230\" stroke=\"currentColor\" stroke-opacity=\"0.25\" stroke-dasharray=\"3 3\"/>\n    <g stroke-width=\"3\" fill=\"none\">\n      <line x1=\"376\" y1=\"112\" x2=\"591\" y2=\"112\" stroke=\"var(--uv-low)\"/>\n      <line x1=\"392\" y1=\"182\" x2=\"545\" y2=\"182\" stroke=\"var(--uv-mod)\"/>\n    </g>\n    <g fill=\"currentColor\" fill-opacity=\"0.35\">\n      <circle cx=\"591\" cy=\"112\" r=\"5\"/>\n      <circle cx=\"545\" cy=\"182\" r=\"5\"/>\n    </g>\n    <circle cx=\"376\" cy=\"112\" r=\"6\" fill=\"var(--uv-low)\"/>\n    <circle cx=\"392\" cy=\"182\" r=\"6\" fill=\"var(--uv-mod)\"/>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10.5\" fill=\"currentColor\" opacity=\"0.8\">\n      <text x=\"601\" y=\"116\">6.8</text>\n      <text x=\"555\" y=\"186\">6.0</text>\n      <text x=\"376\" y=\"98\" text-anchor=\"middle\">3.07</text>\n      <text x=\"392\" y=\"208\" text-anchor=\"middle\">3.34</text>\n    </g>\n    <g font-family=\"IBM Plex Mono, monospace\" font-size=\"10\" fill=\"currentColor\" opacity=\"0.45\">\n      <text x=\"200\" y=\"250\" text-anchor=\"middle\">0</text>\n      <text x=\"660\" y=\"250\" text-anchor=\"middle\">8 &nbsp;MMASI</text>\n    </g>\n    <text x=\"24\" y=\"278\" font-family=\"IBM Plex Sans, sans-serif\" font-size=\"12.5\" fill=\"currentColor\" opacity=\"0.65\">Hollow end is baseline, filled end is week 12. Both arms were on hydroquinone throughout.</text>\n  </svg>",
+          "html": "<b>Figure 2</b> &nbsp;The trial reports baseline scores and percentage reductions<sup><a href=\"#r6\">6</a></sup>; the week-12 values of 3.07 and 3.34 are our arithmetic from those two figures, not numbers the paper prints. Shown this way, a gap of 54.9% against 44.4% is a gap of roughly a quarter of a point."
+        },
+        {
+          "type": "h2",
+          "html": "The trial that found nothing"
+        },
+        {
+          "type": "p",
+          "html": "Five years earlier, a randomised double-blinded placebo-controlled trial at UT Southwestern tested the same extract on melasma and did not find a statistically significant effect<sup><a href=\"#r7\">7</a></sup>. Forty patients were randomised, 20 per arm, and 33 completed. The dose was 240 mg three times daily for 12 weeks, alongside a daily SPF 55 sunscreen. The primary outcome was the melanin index measured by narrowband reflectance spectrophotometry, an instrument reading rather than a clinician's score."
+        },
+        {
+          "type": "quote",
+          "html": "Intervention: oral extract plus SPF 55. Comparator: placebo plus SPF 55. Melanin index improvement at 12 weeks: 28.8% against 13.8%, p = 0.14. MASI: p = 0.62. Time: 12 weeks. Population: 40 randomised, 33 completed.",
+          "cite": "Ahmed et al., <em>JAMA Dermatology</em>, 2013. Funded by the Skin of Color Society; capsules and placebo supplied by Industrial Farmac&eacute;utica Cantabria<sup><a href=\"#r7\">7</a></sup>"
+        },
+        {
+          "type": "p",
+          "html": "A 28.8% improvement against 13.8% looks like a result until you reach the p value of 0.14, which means the study could not distinguish that gap from chance. The authors are clear about why: the difference they observed between groups was 5.1 points, less than half the 11.7 points the trial had been designed to detect<sup><a href=\"#r7\">7</a></sup>. With 33 people, a real effect of that size would not have shown up reliably. The correct reading is that this trial did not demonstrate a difference, which is not the same as demonstrating there is none."
+        },
+        {
+          "type": "note",
+          "html": "<h4>Where the evidence comes from</h4>\n      <p>Two 12-week trials, 33 completers each, one reaching statistical significance and one not, both using extract supplied by the same manufacturer, and that manufacturer makes Heliocare. The 2018 trial was also sponsored by it and two of its authors work there<sup><a href=\"#r6\">6</a></sup><sup><a href=\"#r7\">7</a></sup>. This is the funding pattern across most of the <em>Polypodium leucotomos</em> literature, and counting more such studies would not make the base more independent. It is a reasonable basis for calling the oral extract a plausible adjunct. It is not a basis for calling it established.</p>"
+        },
+        {
+          "type": "h2",
+          "html": "What this changes about choosing a sunscreen here"
+        },
+        {
+          "type": "p",
+          "html": "The practical consequence is narrower than the science sounds, and it is worth separating what follows from the evidence from what does not."
+        },
+        {
+          "type": "list",
+          "html": "<li><strong>Tint is the working part, not the cosmetic part.</strong> If visible light is a factor for your skin, the only sunscreens doing anything about it are the ones you can see on your face. A clear gel at SPF 50 and a tinted product at SPF 50 are not equivalent in this respect, whatever their ultraviolet numbers say.</li>\n      <li><strong>In the Singapore range, that means the tinted formats.</strong> Cantabria Labs lists iron oxide and green tea extract in the Heliocare 360 Oil-Free Compact, a cream foundation compact at very high protection available in three shades<sup><a href=\"#r8\">8</a></sup>. The Heliocare 360 Pigment Solution Fluid is described as a very high broad-spectrum fluid with nude pigments to even skin tone<sup><a href=\"#r9\">9</a></sup>. The Color Gelcream sold in some other markets is not part of the Singapore range.</li>\n      <li><strong>A compact solves a different problem from a fluid.</strong> Reapplication is where most daily routines fail, and a powder-format compact can go over makeup at lunchtime where a fluid realistically cannot. That is a practical argument about format, not a claim about efficacy.</li>\n      <li><strong>The oral capsule is an adjunct, on the evidence above.</strong> Every trial gave it to people already using sunscreen, and in the melasma trials, already using a prescription cream as well. It is used alongside topical protection, not instead of it.</li>\n      <li><strong>Shade matching matters more than it sounds.</strong> A tinted sunscreen only gets worn daily if it looks right, and one that is worn daily beats a better one that sits in a drawer.</li>"
+        },
+        {
+          "type": "note",
+          "html": "<h4>What we are not claiming</h4>\n      <p>Melasma is a medical diagnosis and belongs with a doctor. No sunscreen and no supplement on our range treats it, and we are not presenting any product here as doing so. What the trials above support is narrower: that a pigment which absorbs visible light can help a depigmenting regimen along, and that an oral antioxidant used alongside sunscreen has produced a modest measurable difference in one trial and no statistically significant difference in another. In Singapore, sunscreens are regulated as cosmetic products under the ASEAN Cosmetic Directive and oral supplements as health supplements; neither category may carry claims to prevent, treat or cure a disease<sup><a href=\"#r10\">10</a></sup>. A tinted sunscreen can even out the appearance of skin tone and reduce a contributor to uneven pigmentation. That is the claim, and it is the whole claim.</p>"
+        },
+        {
+          "type": "h2",
+          "html": "Where to take this next"
+        },
+        {
+          "type": "p",
+          "html": "If pigmentation is the thing that bothers you and your sunscreen is clear, the single change with the most evidence behind it is switching your daily one for a tinted product and using enough of it. That costs nothing to try and it is the variable the trials were actually manipulating."
+        },
+        {
+          "type": "p",
+          "html": "The second thing is less convenient. Every trial described here ran on top of a prescription depigmenting cream, which means none of them tells you what happens without one. If you have not had the patches looked at, that conversation with a doctor is doing more for you than any choice between two bottles. A pharmacist can match a shade and talk through textures for oily or sensitive skin, and is the right person to ask whether adding an oral supplement makes sense alongside what you are already using. Nothing here is urgent. Pigmentation that took years to arrive is not going to resolve or worsen over a fortnight."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does a higher SPF protect against visible light?",
+          "a": "No. SPF describes how much longer protected skin takes to redden under ultraviolet, an effect driven mainly by UVB, and the UVA rating beside it covers up to 400 nanometres. Visible light runs from 400 to 700 nanometres and no number on a sunscreen label describes protection against it. Going from SPF 30 to SPF 50+ changes your ultraviolet protection and changes nothing about visible light."
+        },
+        {
+          "q": "Why does a tinted sunscreen block visible light when a clear one does not?",
+          "a": "Because a substance that absorbed visible light would not be transparent. That is what colour is. Sunscreens that offer visible-light protection do it with pigments such as iron oxides, which is also why they are tinted rather than clear. There is no clear filter that does the same job, which is a physical constraint rather than a gap in formulation."
+        },
+        {
+          "q": "How much difference did the iron oxide sunscreen actually make?",
+          "a": "In the 2014 randomised trial, over eight weeks and with everyone also using 4% hydroquinone, the iron oxide group improved 15% more on the clinician's MASI score, 28% more on colorimetry and 4% more on histological melanin than the group using a sunscreen without it. The direction was consistent across all three measures; the size was not, and the most objective of the three measures moved the least."
+        },
+        {
+          "q": "Does oral Fernblock work for pigmentation?",
+          "a": "The evidence is mixed and thin. A 2018 trial at the National Skin Centre in Singapore found a 54.9% reduction in modified MASI against 44.4% on placebo at 12 weeks, statistically significant, with everyone also on hydroquinone and SPF 50+. A 2013 trial in the United States found a 28.8% improvement in melanin index against 13.8%, which did not reach statistical significance at p = 0.14. The 2018 trial was sponsored by the manufacturer and two of its authors work there. Both trials had 33 completers."
+        },
+        {
+          "q": "Can I use the oral capsule instead of sunscreen?",
+          "a": "No, and no trial has tested it that way. In every study described here the extract was given to people who were already applying sunscreen daily, so what was measured was whatever it added on top of that. It is used alongside topical sun protection, not as a substitute for it."
+        }
+      ],
+      "refs": [
+        {
+          "n": 1,
+          "html": "Goh, C. L., &amp; Dlova, C. N. (1999). A retrospective study on the clinical presentation and treatment outcome of melasma in a tertiary dermatological referral centre in Singapore. <em>Singapore Medical Journal, 40</em>(7), 455&ndash;458. <a href=\"https://pubmed.ncbi.nlm.nih.gov/10560271/\">https://pubmed.ncbi.nlm.nih.gov/10560271/</a>"
+        },
+        {
+          "n": 2,
+          "html": "Mahmoud, B. H., Ruvolo, E., Hexsel, C. L., Liu, Y., Owen, M. R., Kollias, N., Lim, H. W., &amp; Hamzavi, I. H. (2010). Impact of long-wavelength UVA and visible light on melanocompetent skin. <em>Journal of Investigative Dermatology, 130</em>(8), 2092&ndash;2097. <a href=\"https://doi.org/10.1038/jid.2010.95\">https://doi.org/10.1038/jid.2010.95</a>"
+        },
+        {
+          "n": 3,
+          "html": "National Environment Agency. (n.d.). <em>Ultraviolet index</em>. Retrieved 22 September 2026, from <a href=\"https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index\">https://www.nea.gov.sg/corporate-functions/weather/ultraviolet-index</a>"
+        },
+        {
+          "n": 4,
+          "html": "Castanedo-Cazares, J. P., Hernandez-Blanco, D., Carlos-Ortega, B., Fuentes-Ahumada, C., &amp; Torres-&Aacute;lvarez, B. (2014). Near-visible light and UV photoprotection in the treatment of melasma: A double-blind randomized trial. <em>Photodermatology, Photoimmunology &amp; Photomedicine, 30</em>(1), 35&ndash;42. <a href=\"https://doi.org/10.1111/phpp.12086\">https://doi.org/10.1111/phpp.12086</a>"
+        },
+        {
+          "n": 5,
+          "html": "Boukari, F., Jourdan, E., Fontas, E., Montaudi&eacute;, H., Castela, E., Lacour, J. P., &amp; Passeron, T. (2015). Prevention of melasma relapses with sunscreen combining protection against UV and short wavelengths of visible light: A prospective randomized comparative trial. <em>Journal of the American Academy of Dermatology, 72</em>(1), 189&ndash;190.e1. <a href=\"https://doi.org/10.1016/j.jaad.2014.08.023\">https://doi.org/10.1016/j.jaad.2014.08.023</a>"
+        },
+        {
+          "n": 6,
+          "html": "Goh, C. L., Chuah, S. Y., Tien, S., Thng, G., Vitale, M. A., &amp; Delgado-Rubin, A. (2018). Double-blind, placebo-controlled trial to evaluate the effectiveness of Polypodium leucotomos extract in the treatment of melasma in Asian skin: A pilot study. <em>Journal of Clinical and Aesthetic Dermatology, 11</em>(3), 14&ndash;19. <a href=\"https://pubmed.ncbi.nlm.nih.gov/29606995/\">https://pubmed.ncbi.nlm.nih.gov/29606995/</a>"
+        },
+        {
+          "n": 7,
+          "html": "Ahmed, A. M., Lopez, I., Perese, F., Vasquez, R., Hynan, L. S., Chong, B., &amp; Pandya, A. G. (2013). A randomized, double-blinded, placebo-controlled trial of oral Polypodium leucotomos extract as an adjunct to sunscreen in the treatment of melasma. <em>JAMA Dermatology, 149</em>(8), 981&ndash;983. <a href=\"https://doi.org/10.1001/jamadermatol.2013.4294\">https://doi.org/10.1001/jamadermatol.2013.4294</a>"
+        },
+        {
+          "n": 8,
+          "html": "Cantabria Labs. (n.d.). <em>Heliocare 360 Oil-Free Compact Beige 10g</em>. Retrieved 22 September 2026, from <a href=\"https://heliocare.com.sg/product/heliocare-360-oil-free-compact-beige-10g/\">https://heliocare.com.sg/product/heliocare-360-oil-free-compact-beige-10g/</a>"
+        },
+        {
+          "n": 9,
+          "html": "Cantabria Labs. (n.d.). <em>Heliocare 360&deg; Pigment Solution Fluid SPF50+ 50ml</em>. Retrieved 22 September 2026, from <a href=\"https://heliocare.com.sg/product/heliocare-360-pigment-solution-fluid-spf50/\">https://heliocare.com.sg/product/heliocare-360-pigment-solution-fluid-spf50/</a>"
+        },
+        {
+          "n": 10,
+          "html": "Health Sciences Authority. (n.d.). <em>Cosmetic products: Overview</em>. Retrieved 22 September 2026, from <a href=\"https://www.hsa.gov.sg/cosmetic-products/overview/\">https://www.hsa.gov.sg/cosmetic-products/overview/</a>"
+        }
+      ]
     }
   ]
 }
